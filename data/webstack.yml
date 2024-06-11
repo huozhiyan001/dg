@@ -189,10 +189,10 @@
       description: 
 
       
-- taxonomy: 源代码
+- taxonomy: 资源
   icon: fa-star
   links: 
-    - title: 导航制作完整版01
+    - title: 导航制作完整版
       logo: 
       url: https://github.com/afengxiang/afx
       description: 
@@ -205,9 +205,8 @@
 - taxonomy: 视频教程
   icon: fa-star
   links: 
-    - title: 导航制作完整版01
+    - title: 导航制作完整版
       logo: 
       url: https://www.youtube.com/watch?v=VLp0aox9Pb8&t=358s
       description: 
- 
 ---
