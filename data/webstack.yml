@@ -184,14 +184,30 @@
       logo: 
       url: https://telegram-x.en.download.it/android/download
       description: 
-    
+
+
+- taxonomy: 视频讲解
+  icon: fa-star
+  links: 
+    - title: 导航网址-简单版
+      logo: 
+      url: https://www.youtube.com/watch?v=ROEUAkCbDaU
+      description: 
+    - title: 导航网址-完整版
+      logo: 
+      url: https://www.youtube.com/watch?v=VLp0aox9Pb8&t=358s
+      description: 
 
 - taxonomy: 源代码
   icon: fa-star
   links: 
-    - title: 导航网页
+    - title: 导航源代码-完整版
       logo: 
       url: https://github.com/afengxiang/afx
+      description: 
+    - title: 导航源代码-简化版
+      logo: 
+      url: https://github.com/shiteThings/cloudflare-navpage/blob/main/index.js
       description: 
     - title: 微信公众号下载视频
       logo:  
