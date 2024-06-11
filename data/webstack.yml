@@ -142,10 +142,7 @@
       logo: 
       url: https://www.google.com/search?sca_esv=986cfd32cb66a37f&sca_upv=1&sxsrf=ADLYWIJL6fM0FAiIsbJtF83Btw5O7W2aVA:1717118822687&q=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81&source=lnms&sa=X&ved=2ahUKEwigldqL3raGAxU2M0QIHQrLBHUQ0pQJegQIDBAB&biw=1872&bih=1004&dpr=1&udm=2#vhid=WndVI3E4vqLBzM&vssid=mosaic
       description: 
-    - title: 查询自己网站是否被墙
-      logo:  
-      url: https://tool.chinaz.com/
-      description: 
+
 
 - taxonomy: 金融
   icon: fa-star
@@ -187,26 +184,8 @@
       logo: 
       url: https://telegram-x.en.download.it/android/download
       description: 
-
-      
-- taxonomy: 源代码
-  icon: fa-star
-  links: 
-    - title: 导航制作完整版
-      logo: 
-      url: https://github.com/afengxiang/afx
-      description: 
-   - title: 微信公众号下载视频
+    - title: 微信公众号下载视频
       logo:  
       url: https://github.com/putyy/res-downloader
-      description: 
-
-
-- taxonomy: 视频教程
-  icon: fa-star
-  links: 
-    - title: 导航制作视频
-      logo: 
-      url: https://www.youtube.com/watch?v=VLp0aox9Pb8&t=358s
       description: 
 ---
