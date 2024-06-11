@@ -189,7 +189,7 @@
       description: 
 
       
-- taxonomy: 资源
+- taxonomy: 源代码
   icon: fa-star
   links: 
     - title: 导航制作完整版
@@ -205,7 +205,7 @@
 - taxonomy: 视频教程
   icon: fa-star
   links: 
-    - title: 导航制作完整版
+    - title: 导航制作视频
       logo: 
       url: https://www.youtube.com/watch?v=VLp0aox9Pb8&t=358s
       description: 
