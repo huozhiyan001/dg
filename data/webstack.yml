@@ -184,6 +184,15 @@
       logo: 
       url: https://telegram-x.en.download.it/android/download
       description: 
+    
+
+- taxonomy: 源代码
+  icon: fa-star
+  links: 
+    - title: 导航网页
+      logo: 
+      url: https://github.com/afengxiang/afx
+      description: 
     - title: 微信公众号下载视频
       logo:  
       url: https://github.com/putyy/res-downloader
