@@ -31,7 +31,7 @@ copyright = "蓝猫世界导航站"
   
 #桌面端右上角code按钮
 [params.github]
-  enable = false #true显示 false隐藏
+  enable = true #true显示 false隐藏
   url = "https://github.com/oulh/nav"
   
 [permalinks]  
