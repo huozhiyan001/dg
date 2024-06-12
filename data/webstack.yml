@@ -200,8 +200,109 @@
       logo: 
       url: https://telegram-x.en.download.it/android/download
       description: 
+    - title: 吾爱破解论坛
+      logo: 
+      url: https://www.52pojie.cn
+      description: 
+    - title: 卡饭论坛
+      logo: 
+      url: http://bbs.kafan.cn
+      description: 
+    - title: 永乐汉化论坛
+      logo: 
+      url: http://www.ylhh.net/forum.php
+      description: 
+    - title: 乐享网(安卓软件)
+      logo: 
+      url: https://www.lxapk.com
+      description: 
+    - title: 亿破姐
+      logo: 
+      url: https://www.ypojie.com
+      description: 
+    - title: 致美化
+      logo: 
+      url: https://zhutix.com/
+      description: 
+    - title: KimiChat官网
+      logo: 
+      url: https://kimi.moonshot.cn
+      description: 
+    - title: 423Down(安卓软件)
+      logo: 
+      url: https://www.423down.com
+      description: 
+    - title: 小鱼儿yr系统
+      logo: 
+      url: https://www.yrxitong.com
+      description: 
+    - title: th_sjy汉化分享博客
+      logo: 
+      url: http://www.th-sjy.com
+      description: 
+    - title: 悦宇玩机
+      logo: 
+      url: https://heihei.run
+      description: 
+    - title: 雪域工作室
+      logo: 
+      url: https://www.xueyu521.cn
+      description: 
+    - title: 繁星摄影
+      logo: 
+      url: https://52fanxing.com
+      description: 
+    - title: 设计师
+      logo: 
+      url: https://www.yuque.com/sssc/sucai/jc
+      description: 
+    - title: 趣猫资源
+      logo: 
+      url: https://www.mgzyfx.com
+      description: 
+    - title: 爱工作
+      logo: 
+      url: http://anifx8.com
+      description: 
+    - title: 搜片
+      logo: 
+      url: https://soupian.one
+      description: 
 
 
+- taxonomy: 游戏
+  icon: fa-star
+  links: 
+    - title: 游侠网
+      logo: 
+      url: https://game.ali213.net
+      description: 
+    - title: 3DM论坛
+      logo: 
+      url: http://bbs.3dmgame.com/forum.php
+      description: 
+    - title: CMDW单机游戏
+      logo:  
+      url: https://sway.cloud.microsoft/GL604D7EZOYQArSA?ref=Link
+      description: 
+    - title: 番茄游戏
+      logo: 
+      url: https://www.d3x7.com
+      description: 
+    - title: 5dmcity单机游戏
+      logo: 
+      url: http://www.5dmcity.top
+      description: 
+    - title: KZ游戏
+      logo:  
+      url: https://www.kzyx.cc
+      description: 
+    - title: 988YX单机游戏
+      logo:  
+      url: https://www.988yx.top
+      description: 
+
+      
 - taxonomy: 视频讲解
   icon: fa-star
   links: 
@@ -213,6 +314,7 @@
       logo: 
       url: https://www.youtube.com/watch?v=VLp0aox9Pb8&t=358s
       description: 
+
 
 - taxonomy: 源代码
   icon: fa-star
