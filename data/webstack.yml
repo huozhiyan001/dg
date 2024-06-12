@@ -192,6 +192,10 @@
 - taxonomy: 软件
   icon: fa-star
   links: 
+    - title: 油猴子脚本插件官网
+      logo: 
+      url: https://greasyfork.org/zh-CN
+      description: 
     - title: 纸飞机
       logo: 
       url: https://telegram.org/
@@ -330,5 +334,21 @@
     - title: 微信公众号下载视频
       logo:  
       url: https://github.com/putyy/res-downloader
+      description: 
+
+- taxonomy: 导航网站
+  icon: fa-star
+  links: 
+    - title: 导航网站-精简版
+      logo: 
+      url: https://dh.kk89jf.sbs
+      description: 
+    - title: 导航网站-完整版
+      logo: 
+      url: https://dh.958878.xyz
+      description: 
+    - title: 工具达人导航
+      logo:  
+      url: https://toolsdar.com
       description: 
 ---
