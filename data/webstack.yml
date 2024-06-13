@@ -272,6 +272,10 @@
       logo: 
       url: https://soupian.one
       description: 
+    - title: 根据图片猜出地址
+      logo: 
+      url: https://geospy.ai/
+      description: 
 
 
 - taxonomy: 游戏
