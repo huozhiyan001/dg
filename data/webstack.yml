@@ -192,7 +192,7 @@
 - taxonomy: 软件
   icon: fa-star
   links: 
-    - title: 油猴子脚本插件官网
+    - title: 油猴子
       logo: 
       url: https://greasyfork.org/zh-CN
       description: 
@@ -342,6 +342,10 @@
     - title: 3K大佬
       logo:  
       url: https://github.com/3Kmfi6HP/EDtunnel
+      description: 
+    - title: 白嫖哥
+      logo:  
+      url: https://docs.bestip.one/
       description: 
       
 
