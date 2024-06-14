@@ -187,6 +187,10 @@
       logo:  
       url: https://sms-activate.org/cn/getNumber
       description: 
+    - title: 5ber手机卡
+      logo:  
+      url: https://esim.5ber.com/?language=zh-CN
+      description: 
 
 
 - taxonomy: 软件
