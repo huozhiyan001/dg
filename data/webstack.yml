@@ -364,7 +364,27 @@
       url: https://docs.bestip.one/
       description: 
       
+- taxonomy: 魔法
+  icon: fa-star
+  links: 
+    - title: ClashMeta安卓端
+      logo: 
+      url: https://github.com/MetaCubeX/ClashMetaForAndroid
+      description: 
+    - title: ClashMeta电脑端
+      logo: 
+      url: https://github.com/clash-verge-rev/clash-verge-rev
+      description: 
+    - title: v2rayN电脑端
+      logo: 
+      url: https://github.com/2dust/v2rayN
+      description: 
+    - title: v2rayN安卓端
+      logo: 
+      url: https://github.com/2dust/v2rayNG
+      description:
 
+      
 - taxonomy: 导航网站
   icon: fa-star
   links: 
