@@ -340,7 +340,7 @@
       description: 
 
 
-- taxonomy: 源代码
+- taxonomy: 源码
   icon: fa-star
   links: 
     - title: 导航源代码-完整版
@@ -363,10 +363,11 @@
       logo:  
       url: https://github.com/3Kmfi6HP/EDtunnel
       description: 
-    - title: 白哥软件
+    - title: 白哥哥
       logo:  
       url: https://docs.bestip.one/
       description: 
+
       
 - taxonomy: 魔法
   icon: fa-star
