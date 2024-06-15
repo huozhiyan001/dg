@@ -195,6 +195,10 @@
       logo:  
       url: https://esim.5ber.com/?language=zh-CN
       description: 
+    - title: esimplus爱沙尼亚手机卡
+      logo:  
+      url: https://esimplus.me/mobile-data
+      description: 
 
 
 - taxonomy: 软件
@@ -363,7 +367,7 @@
       logo:  
       url: https://github.com/3Kmfi6HP/EDtunnel
       description: 
-    - title: 白哥哥
+    - title: 白哥软件库
       logo:  
       url: https://docs.bestip.one/
       description: 
