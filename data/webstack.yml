@@ -158,9 +158,13 @@
       logo:  
       url: https://ip.164746.xyz/
       description:
-    - title: 苹果IMEI
+    - title: 苹果IMEI生成器
       logo:  
       url: https://www.imei.info/zh/Apple_imei_generator/
+      description:
+    - title: proxy6-VPS官网
+      logo:  
+      url: https://proxy6.net/en/
       description:
 
 
