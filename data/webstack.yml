@@ -168,7 +168,7 @@
       description:
 
 
-- taxonomy: 金融
+- taxonomy: 网购平台
   icon: fa-star
   links: 
     - title: Fomecard虚拟信用卡
@@ -413,7 +413,7 @@
 - taxonomy: 网页插件
   icon: fa-star
   links: 
-    - title: 谷歌设置
+    - title: 谷歌后台
       logo: 
       url: chrome://flags/
       description: 
