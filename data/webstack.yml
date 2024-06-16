@@ -413,7 +413,7 @@
 - taxonomy: 浏览器插件
   icon: fa-star
   links: 
-    - title: 谷歌浏览器后台
+    - title: 谷歌后台
       logo: 
       url: chrome://flags/
       description: 
@@ -425,11 +425,11 @@
       logo: 
       url: https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN
       description: 
-     - title: Youtube無痛字幕
+     - title: 油管無痛字幕
       logo: 
       url: https://chromewebstore.google.com/detail/%E7%84%A1%E7%97%9B%E5%AD%97%E5%B9%95/bkohkbgpnmhplcaheihaiomghmgfjlba
       description: 
-     - title: 自动跳过 Youtube™ 广告
+     - title: 自动跳过广告
       logo: 
       url: https://chromewebstore.google.com/detail/hmbnhhcgiecenbbkgdoaoafjpeaboine
       description: 
