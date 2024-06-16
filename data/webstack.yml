@@ -417,9 +417,9 @@
       logo: 
       url: chrome://flags/
       description: 
-    - title: IDM Integration Module
+    - title: 自动跳过广告
       logo: 
-      url: https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
+      url: https://chromewebstore.google.com/detail/hmbnhhcgiecenbbkgdoaoafjpeaboine
       description: 
    - title: 油管無痛字幕
       logo: 
