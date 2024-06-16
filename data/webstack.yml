@@ -410,10 +410,10 @@
       description:
 
 
-- taxonomy: 网页插件
+- taxonomy: 网页工具
   icon: fa-star
   links: 
-    - title: 谷歌后台
+    - title: 谷歌设置
       logo: 
       url: chrome://flags/
       description: 
@@ -433,7 +433,7 @@
       logo: 
       url: https://chromewebstore.google.com/detail/%E6%B5%AE%E5%9B%BE%E7%A7%80/mgpdnhlllbpncjpgokgfogidhoegebod?hl=zh-CN
       description: 
-     - title: 视频画中画
+     - title: 画中画
       logo: 
       url: https://chromewebstore.google.com/detail/%E7%94%BB%E4%B8%AD%E7%94%BB-%E6%B5%AE%E5%8A%A8%E6%92%AD%E6%94%BE%E5%99%A8/adnielbhikcbmegcfampbclagcacboff?hl=zh-CN
       description: 
