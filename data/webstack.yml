@@ -203,6 +203,10 @@
       logo:  
       url: https://esimplus.me/mobile-data
       description: 
+    - title: 银行SWIFT CODE查询
+      logo:  
+      url: https://www.icvio.cn/swift
+      description: 
 
 
 - taxonomy: 软件
