@@ -172,7 +172,7 @@
       description:
 
 
-- taxonomy: 网购平台
+- taxonomy: 金融网购平台
   icon: fa-star
   links: 
     - title: Fomecard虚拟信用卡
@@ -211,9 +211,9 @@
       logo:  
       url: https://www.icvio.cn/swift
       description: 
-    - title: paypal官网
+    - title: 美区paypal官网
       logo:  
-      url: https://www.paypal.com/c2/home
+      url: https://www.paypal.com/us/home
       description: 
 
 
