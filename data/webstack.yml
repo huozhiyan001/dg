@@ -417,6 +417,12 @@
       logo: 
       url: chrome://flags/
       description: 
+    - title: IDM Integration Module
+      logo: 
+      url: https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
+      description: 
+    
+    
     
      
 
