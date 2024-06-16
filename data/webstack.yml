@@ -87,7 +87,7 @@
       description: 
 
 
-- taxonomy: 域名
+- taxonomy: 域名网站
   icon: fa-star
   links: 
     - title: 每年0.67美元顶级域名
@@ -242,7 +242,7 @@
       description: 
 
 
-- taxonomy: 软件
+- taxonomy: 软件推荐
   icon: fa-star
   links: 
     - title: 油猴子
@@ -448,6 +448,14 @@
     - title: 伊朗大神MahsaNG安卓端
       logo: 
       url: https://github.com/GFW-knocker/MahsaNG
+      description:
+    - title: Nekoray电脑PC端
+      logo: 
+      url: https://github.com/MatsuriDayo/nekoray
+      description:
+    - title: Nekoray安卓端
+      logo: 
+      url: https://github.com/Matsuridayo/NekoBoxForAndroid/releases
       description:
     - title: SingBox
       logo: 
