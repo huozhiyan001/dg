@@ -417,7 +417,14 @@
       logo: 
       url: chrome://flags/
       description: 
-    
+    - title: IDM插件
+      logo: 
+      url: https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
+      description: 
+   - title: 油管無痛字幕
+      logo: 
+      url: https://chromewebstore.google.com/detail/%E7%84%A1%E7%97%9B%E5%AD%97%E5%B9%95/bkohkbgpnmhplcaheihaiomghmgfjlba
+      description: 
      
 
 - taxonomy: 导航网站
