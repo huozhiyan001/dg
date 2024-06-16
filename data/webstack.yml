@@ -27,10 +27,6 @@
       logo:  
       url: https://github.com/dashboard
       description: 
-    - title: ChatGpt官网
-      logo:  
-      url: https://chatgpt.com/?oai-dm=1
-      description: 
     - title: 假奈非电影网站
       logo:  
       url: https://tv.hbys.top/
@@ -67,6 +63,27 @@
     - title: 临时邮箱
       logo: 
       url: https://www.linshiyouxiang.net/
+      description: 
+
+
+- taxonomy: 智能AI
+  icon: fa-star
+  links: 
+    - title: ChatGpt官网
+      logo:  
+      url: https://chatgpt.com/?oai-dm=1
+      description: 
+    - title: 我自己做的ChatGpt4.0
+      logo: 
+      url: https://gq86p6-3000.csb.app/
+      description: 
+    - title: 我自己ChatGPT4.0可搭建模型
+      logo: 
+      url: https://www.coze.com/space/7357719953564975110/bot/7357720354968092678
+      description: 
+    - title: 万知
+      logo: 
+      url: https://www.wanzhi.com/home
       description: 
 
 
