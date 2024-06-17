@@ -65,14 +65,11 @@
       url: https://www.linshiyouxiang.net/
       description: 
 
-- taxonomy: 灵感采集
+- taxonomy: 综合资源
   icon: fa-regular fa-lightbulb
   list: 
 - term: 发现产品
   links:
-- taxonomy: 域名
-  icon: fa-star
-  links: 
     - title: 每年0.67美元顶级域名
       logo: 
       url: https://www.spaceship.com/
