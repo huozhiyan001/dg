@@ -68,44 +68,44 @@
 - taxonomy: 综合资源
   icon: fa-regular fa-lightbulb
   list: 
-- term: 发现产品
-  links:
-    - title: 每年0.67美元顶级域名
-      logo: 
-      url: https://www.spaceship.com/
-      description: 
-    - title: namesilo主力域名
-      logo: 
-      url: https://www.namesilo.com/
-      description: 
-    - title: 第三选择域名
-      logo:  
-      url: https://www.name.com/zh-cn/
-      description: 
-    - title: dynv6二级域名
-      logo: 
-      url: https://dynv6.com/
-      description: 
-    - title: freedomain二级域名
-      logo: 
-      url: https://freedomain.one/
-      description: 
-    - title: L53二级域名
-      logo:  
-      url: https://customer.l53.net/
-      description: 
-    - title: 双向解析永久域名cloudns
-      logo: 
-      url: https://www.cloudns.net/main/
-      description: 
-    - title: 永久免费公益3个域名
-      logo: 
-      url: https://register.us.kg/panel/main
-      description: 
-    - title: 博客
-      logo:  
-      url: https://ccp.cloudaccess.net/clientarea.php
-      description: 
+    - term: 发现产品
+      links:
+         - title: 每年0.67美元顶级域名
+           logo: 
+           url: https://www.spaceship.com/
+           description: 
+         - title: namesilo主力域名
+           logo: 
+           url: https://www.namesilo.com/
+           description: 
+         - title: 第三选择域名
+           logo:  
+           url: https://www.name.com/zh-cn/
+           description: 
+         - title: dynv6二级域名
+           logo: 
+           url: https://dynv6.com/
+           description: 
+         - title: freedomain二级域名
+           logo: 
+           url: https://freedomain.one/
+           description: 
+         - title: L53二级域名
+           logo:  
+           url: https://customer.l53.net/
+           description: 
+         - title: 双向解析永久域名cloudns
+           logo: 
+           url: https://www.cloudns.net/main/
+           description: 
+         - title: 永久免费公益3个域名
+           logo: 
+           url: https://register.us.kg/panel/main
+           description: 
+         - title: 博客
+           logo:  
+           url: https://ccp.cloudaccess.net/clientarea.php
+           description: 
 
 - taxonomy: 网络IP
   icon: fa-star
