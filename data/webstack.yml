@@ -134,7 +134,7 @@
       description: 
     
 
-- taxonomy: 网站资源
+- taxonomy: 综合资源
   icon: fa-regular fa-lightbulb
   list: 
     - term: 邮箱
@@ -523,7 +523,7 @@
           description: 
           
 
- - taxonomy: 娱乐学习频道
+ - taxonomy: 娱乐学习
    icon: fa-palette
    list: 
     - term: 单机游戏
