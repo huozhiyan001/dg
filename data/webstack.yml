@@ -65,7 +65,11 @@
       url: https://www.linshiyouxiang.net/
       description: 
 
-
+- taxonomy: 灵感采集
+  icon: fa-regular fa-lightbulb
+  list: 
+- term: 发现产品
+  links:
 - taxonomy: 域名
   icon: fa-star
   links: 
@@ -105,7 +109,6 @@
       logo:  
       url: https://ccp.cloudaccess.net/clientarea.php
       description: 
-
 
 - taxonomy: 网络IP
   icon: fa-star
@@ -167,7 +170,6 @@
       url: https://proxy6.net/en/
       description:
 
-
 - taxonomy: 网购平台
   icon: fa-star
   links: 
@@ -203,7 +205,6 @@
       logo:  
       url: https://esimplus.me/mobile-data
       description: 
-
 
 - taxonomy: 软件
   icon: fa-star
@@ -301,7 +302,6 @@
       url: https://www.charlesproxy.com/latest-release/download.do
       description:
 
-
 - taxonomy: 游戏
   icon: fa-star
   links: 
@@ -333,7 +333,6 @@
       logo:  
       url: https://www.988yx.top
       description: 
-
       
 - taxonomy: 视频讲解
   icon: fa-star
@@ -354,7 +353,6 @@
       logo: 
       url: https://www.youtube.com/watch?v=L46M6Xyahm0
       description: 
-
 
 - taxonomy: 源码
   icon: fa-star
@@ -384,7 +382,6 @@
       url: https://docs.bestip.one/
       description: 
 
-      
 - taxonomy: 魔法
   icon: fa-star
   links: 
@@ -408,7 +405,6 @@
       logo: 
       url: https://github.com/GFW-knocker/MahsaNG
       description:
-
 
 - taxonomy: 网页插件
   icon: fa-star
@@ -461,7 +457,6 @@
       logo: 
       url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo
       description: 
-
 
 - taxonomy: 导航网站
   icon: fa-star
