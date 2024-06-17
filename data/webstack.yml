@@ -40,217 +40,6 @@
       url: https://www.google.com/search?q=%E6%B1%87%E7%8E%87&sca_esv=b41f59bb11203993&sca_upv=1&sxsrf=ADLYWILazxXgdpTGMJJTQZw3huF-0QlhTg%3A1718269264407&ei=ULVqZqnAGK7A0PEPmLeU4As&ved=0ahUKEwipqIjpm9iGAxUuIDQIHZgbBbwQ4dUDCBA&uact=5&oq=%E6%B1%87%E7%8E%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiBuaxh-eOhzIKECMYgAQYJxiKBTIKECMYgAQYJxiKBTIFEAAYgAQyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBRAAGIAEMgoQABiABBhDGIoFMgUQABiABDIKEAAYgAQYQxiKBTIFEAAYgARIqQlQlQVYlQVwAXgBkAEAmAHPAaABzwGqAQMyLTG4AQPIAQD4AQGYAgKgAtcBwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMC4xoAfEBQ&sclient=gws-wiz-serp
       description: 
 
-
-- taxonomy: 邮箱
-  icon: fa-star
-  links: 
-    - title: 谷歌邮箱
-      logo: 
-      url: https://mail.google.com/mail
-      description: 
-    - title: proton邮箱
-      logo: 
-      url: https://mail.proton.me/u/0/inbox
-      description: 
-    - title: 微软邮箱
-      logo:  
-      url: https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
-      description: 
-    - title: QQ邮箱
-      logo: 
-      url: https://mail.qq.com/?cancel_login=true&from=session_timeout
-      description: 
-    - title: 临时邮箱
-      logo: 
-      url: https://www.linshiyouxiang.net/
-      description: 
-
-
-- taxonomy: 智能AI
-  icon: fa-star
-  links: 
-    - title: ChatGpt官网
-      logo:  
-      url: https://chatgpt.com/?oai-dm=1
-      description: 
-    - title: 我自己做的ChatGpt4.0
-      logo: 
-      url: https://gq86p6-3000.csb.app/
-      description: 
-    - title: 我自己ChatGPT4.0可搭建模型
-      logo: 
-      url: https://www.coze.com/space/7357719953564975110/bot/7357720354968092678
-      description: 
-    - title: 万知
-      logo: 
-      url: https://www.wanzhi.com/home
-      description: 
-
-
-- taxonomy: 域名网站
-  icon: fa-star
-  links: 
-    - title: 每年0.67美元顶级域名
-      logo: 
-      url: https://www.spaceship.com/
-      description: 
-    - title: namesilo主力域名
-      logo: 
-      url: https://www.namesilo.com/
-      description: 
-    - title: 第三选择域名
-      logo:  
-      url: https://www.name.com/zh-cn/
-      description: 
-    - title: dynv6二级域名
-      logo: 
-      url: https://dynv6.com/
-      description: 
-    - title: freedomain二级域名
-      logo: 
-      url: https://freedomain.one/
-      description: 
-    - title: L53二级域名
-      logo:  
-      url: https://customer.l53.net/
-      description: 
-    - title: 双向解析永久域名cloudns
-      logo: 
-      url: https://www.cloudns.net/main/
-      description: 
-    - title: 永久免费公益3个域名
-      logo: 
-      url: https://register.us.kg/panel/main
-      description: 
-    - title: 博客
-      logo:  
-      url: https://ccp.cloudaccess.net/clientarea.php
-      description: 
-
-
-- taxonomy: 网络IP
-  icon: fa-star
-  links: 
-    - title: 查询自己IP
-      logo: 
-      url: https://whoer.net/zh
-      description: 
-    - title: IP检测查询
-      logo: 
-      url: https://ping0.cc/ip
-      description: 
-    - title: IP反欺诈
-      logo:  
-      url: https://scamalytics.com/
-      description: 
-    - title: 反代IP
-      logo: 
-      url: https://ipchaxun.com/
-      description: 
-    - title: 反代域名
-      logo: 
-      url: https://www.itdog.cn/ping/8080p.jiwoo.link
-      description: 
-    - title: UUID生成网站
-      logo:  
-      url: https://www.uuidgenerator.net/
-      description: 
-    - title: 美国地址生成器
-      logo: 
-      url: https://shenfendaquan.com/
-      description: 
-    - title: 美国户照KYV
-      logo: 
-      url: https://www.google.com/search?sca_esv=986cfd32cb66a37f&sca_upv=1&sxsrf=ADLYWIJL6fM0FAiIsbJtF83Btw5O7W2aVA:1717118822687&q=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81&source=lnms&sa=X&ved=2ahUKEwigldqL3raGAxU2M0QIHQrLBHUQ0pQJegQIDBAB&biw=1872&bih=1004&dpr=1&udm=2#vhid=WndVI3E4vqLBzM&vssid=mosaic
-      description: 
-    - title: 优选ip库
-      logo:  
-      url: https://345673.xyz/#
-      description: 
-    - title: 优选ip库02
-      logo:  
-      url: https://ipdb.api.030101.xyz/
-      description: 
-    - title: 优选ip库03
-      logo:  
-      url: https://github.com/ymyuuu/IPDB
-      description: 
-    - title: 优选ip库04
-      logo:  
-      url: https://ip.164746.xyz/
-      description:
-    - title: 苹果IMEI生成器
-      logo:  
-      url: https://www.imei.info/zh/Apple_imei_generator/
-      description:
-    - title: proxy6-VPS官网
-      logo:  
-      url: https://proxy6.net/en/
-      description:
-
-
-- taxonomy: 金融网购平台
-  icon: fa-star
-  links: 
-    - title: Fomecard虚拟信用卡
-      logo: 
-      url: https://tsy.fomecard.top
-      description: 
-    - title: 飞扬卡虚拟信用卡
-      logo: 
-      url: https://sh5.live/vc_web/main.html#/home
-      description: 
-    - title: 福美虚拟信用卡
-      logo: 
-      url: https://gpt.fomepay.com/
-      description: 
-    - title: 币安
-      logo: 
-      url: https://www.binance.com/zh-CN
-      description: 
-    - title: 欧易
-      logo:  
-      url: https://www.okx.com/zh-hans
-      description: 
-    - title: GATE芝麻开门交易所
-      logo: 
-      url: https://www.gate.io/zh
-      description: 
-    - title: 非小号货币参考
-      logo: 
-      url: https://www.feixiaohao.com/
-      description: 
-    - title: 接码平台
-      logo:  
-      url: https://sms-activate.org/cn/getNumber
-      description: 
-    - title: 银行SWIFT CODE查询
-      logo:  
-      url: https://www.icvio.cn/swift
-      description: 
-    - title: 美区paypal官网
-      logo:  
-      url: https://www.paypal.com/us/home
-      description: 
-
-
-- taxonomy: 手机平台
-  icon: fa-star
-  links: 
-    - title: 手机投屏
-      logo:  
-      url: https://github.com/barry-ran/QtScrcpy
-      description: 
-    - title: 5ber手机卡
-      logo:  
-      url: https://esim.5ber.com/?language=zh-CN
-      description: 
-    - title: esimplus爱沙尼亚手机卡
-      logo:  
-      url: https://esimplus.me/mobile-data
-      description: 
-
-      
 - taxonomy: 软件推荐
   icon: fa-star
   links: 
@@ -351,142 +140,49 @@
       url: https://www.sejda.com/
       description:
 
-
-- taxonomy: 游戏
+- taxonomy: 邮箱
   icon: fa-star
   links: 
-    - title: 游侠网
+    - title: 谷歌邮箱
       logo: 
-      url: https://game.ali213.net
+      url: https://mail.google.com/mail
       description: 
-    - title: 3DM论坛
+    - title: proton邮箱
       logo: 
-      url: http://bbs.3dmgame.com/forum.php
+      url: https://mail.proton.me/u/0/inbox
       description: 
-    - title: CMDW单机游戏
+    - title: 微软邮箱
       logo:  
-      url: https://sway.cloud.microsoft/GL604D7EZOYQArSA?ref=Link
+      url: https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
       description: 
-    - title: 番茄游戏
+    - title: QQ邮箱
       logo: 
-      url: https://www.d3x7.com
+      url: https://mail.qq.com/?cancel_login=true&from=session_timeout
       description: 
-    - title: 5dmcity单机游戏
+    - title: 临时邮箱
       logo: 
-      url: http://www.5dmcity.top
-      description: 
-    - title: KZ游戏
-      logo:  
-      url: https://www.kzyx.cc
-      description: 
-    - title: 988YX单机游戏
-      logo:  
-      url: https://www.988yx.top
+      url: https://www.linshiyouxiang.net/
       description: 
 
-      
-- taxonomy: 视频讲解
+- taxonomy: 智能AI
   icon: fa-star
   links: 
-    - title: 导航网址-简单版
-      logo: 
-      url: https://www.youtube.com/watch?v=ROEUAkCbDaU
-      description: 
-    - title: 导航网址-完整版
-      logo: 
-      url: https://www.youtube.com/watch?v=VLp0aox9Pb8&t=358s
-      description: 
-    - title: 利用cloudflare创建域名邮箱
-      logo: 
-      url: https://www.youtube.com/watch?v=JDwK4dw8UeA
-      description: 
-    - title: 节点制作
-      logo: 
-      url: https://www.youtube.com/watch?v=L46M6Xyahm0
-      description: 
-
-
-- taxonomy: 源代码
-  icon: fa-star
-  links: 
-    - title: 导航源代码-完整版
-      logo: 
-      url: https://github.com/afengxiang/afx
-      description: 
-    - title: 导航源代码-简化版
-      logo: 
-      url: https://github.com/shiteThings/cloudflare-navpage/blob/main/index.js
-      description: 
-    - title: 微信公众号下载视频
+    - title: ChatGpt官网
       logo:  
-      url: https://github.com/putyy/res-downloader
+      url: https://chatgpt.com/?oai-dm=1
       description: 
-    - title: 3M大佬
-      logo:  
-      url: https://github.com/cmliu
-      description: 
-    - title: 3K大佬
-      logo:  
-      url: https://github.com/3Kmfi6HP/EDtunnel
-      description: 
-    - title: 白哥软件库
-      logo:  
-      url: https://docs.bestip.one/
-      description: 
-    - title: 影梭定位
-      logo:  
-      url: https://github.com/ZCShou/GoGoGo
-      description: 
-    - title: 虚拟定位助手
-      logo:  
-      url: https://github.com/wyx176/mockgps
-      description:
-    - title: 摩尼定位
-      logo:  
-      url: https://moni.bangnimang.net/
-      description: 
-    - title: 定位工具网盘
-      logo:  
-      url: https://pan.quark.cn/s/135c2a4fd11d#/list/share/0fced76037a049eba81ba54875282d56-%E5%AE%9A%E4%BD%8D%E5%B7%A5%E5%85%B7
-      description:
-
-      
-- taxonomy: 魔法工具
-  icon: fa-star
-  links: 
-    - title: ClashMeta安卓端
+    - title: 我自己做的ChatGpt4.0
       logo: 
-      url: https://github.com/MetaCubeX/ClashMetaForAndroid
+      url: https://gq86p6-3000.csb.app/
       description: 
-    - title: ClashMeta电脑端
+    - title: 我自己ChatGPT4.0可搭建模型
       logo: 
-      url: https://github.com/clash-verge-rev/clash-verge-rev
+      url: https://www.coze.com/space/7357719953564975110/bot/7357720354968092678
       description: 
-    - title: v2rayN电脑端
+    - title: 万知
       logo: 
-      url: https://github.com/2dust/v2rayN
+      url: https://www.wanzhi.com/home
       description: 
-    - title: v2rayN安卓端
-      logo: 
-      url: https://github.com/2dust/v2rayNG
-      description:
-    - title: 伊朗大神MahsaNG安卓端
-      logo: 
-      url: https://github.com/GFW-knocker/MahsaNG
-      description:
-    - title: Nekoray电脑PC端
-      logo: 
-      url: https://github.com/MatsuriDayo/nekoray
-      description:
-    - title: Nekoray安卓端
-      logo: 
-      url: https://github.com/Matsuridayo/NekoBoxForAndroid/releases
-      description:
-    - title: SingBox
-      logo: 
-      url: https://github.com/GUI-for-Cores/GUI.for.SingBox
-      description:
-
 
 - taxonomy: 浏览器插件
   icon: fa-star
@@ -540,44 +236,267 @@
       url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo
       description: 
 
-
-- taxonomy: 学习网站
+- taxonomy: 手机平台
   icon: fa-star
   links: 
-    - title: 千图网
-      logo: 
-      url: https://www.58pic.com
+    - title: 手机投屏
+      logo:  
+      url: https://github.com/barry-ran/QtScrcpy
       description: 
-    - title: 繁星摄影
-      logo: 
-      url: https://52fanxing.com
+    - title: 5ber手机卡
+      logo:  
+      url: https://esim.5ber.com/?language=zh-CN
       description: 
-    - title: 幻云PPY办公资源
-      logo: 
-      url: https://mp.weixin.qq.com/s/QudagotLf0FfqxdIuFKdfw
-      description: 
-    - title: QiuQuan'sBlog软件分享
-      logo: 
-      url: http://www.qiuquan.cc
-      description: 
-    - title: 配色器
-      logo: 
-      url: https://mycolor.space
-      description: 
-    - title: 在线抠图
-      logo: 
-      url: https://www.51mo.com/cutout
-      description: 
-    - title: 趣猫资源
-      logo: 
-      url: https://www.mgzyfx.com
-      description: 
-    - title: 设计师
-      logo: 
-      url: https://www.yuque.com/sssc/sucai/jc
+    - title: esimplus爱沙尼亚手机卡
+      logo:  
+      url: https://esimplus.me/mobile-data
       description: 
 
+- taxonomy: 金融网购平台
+  icon: fa-star
+  links: 
+    - title: Fomecard虚拟信用卡
+      logo: 
+      url: https://tsy.fomecard.top
+      description: 
+    - title: 飞扬卡虚拟信用卡
+      logo: 
+      url: https://sh5.live/vc_web/main.html#/home
+      description: 
+    - title: 福美虚拟信用卡
+      logo: 
+      url: https://gpt.fomepay.com/
+      description: 
+    - title: 币安
+      logo: 
+      url: https://www.binance.com/zh-CN
+      description: 
+    - title: 欧易
+      logo:  
+      url: https://www.okx.com/zh-hans
+      description: 
+    - title: GATE芝麻开门交易所
+      logo: 
+      url: https://www.gate.io/zh
+      description: 
+    - title: 非小号货币参考
+      logo: 
+      url: https://www.feixiaohao.com/
+      description: 
+    - title: 接码平台
+      logo:  
+      url: https://sms-activate.org/cn/getNumber
+      description: 
+    - title: 银行SWIFT CODE查询
+      logo:  
+      url: https://www.icvio.cn/swift
+      description: 
+    - title: 美区paypal官网
+      logo:  
+      url: https://www.paypal.com/us/home
+      description: 
+
+- taxonomy: 源代码
+  icon: fa-star
+  links: 
+    - title: 导航源代码-完整版
+      logo: 
+      url: https://github.com/afengxiang/afx
+      description: 
+    - title: 导航源代码-简化版
+      logo: 
+      url: https://github.com/shiteThings/cloudflare-navpage/blob/main/index.js
+      description: 
+    - title: 微信公众号下载视频
+      logo:  
+      url: https://github.com/putyy/res-downloader
+      description: 
+    - title: 3M大佬
+      logo:  
+      url: https://github.com/cmliu
+      description: 
+    - title: 3K大佬
+      logo:  
+      url: https://github.com/3Kmfi6HP/EDtunnel
+      description: 
+    - title: 白哥软件库
+      logo:  
+      url: https://docs.bestip.one/
+      description: 
+    - title: 影梭定位
+      logo:  
+      url: https://github.com/ZCShou/GoGoGo
+      description: 
+    - title: 虚拟定位助手
+      logo:  
+      url: https://github.com/wyx176/mockgps
+      description:
+    - title: 摩尼定位
+      logo:  
+      url: https://moni.bangnimang.net/
+      description: 
+    - title: 定位工具网盘
+      logo:  
+      url: https://pan.quark.cn/s/135c2a4fd11d#/list/share/0fced76037a049eba81ba54875282d56-%E5%AE%9A%E4%BD%8D%E5%B7%A5%E5%85%B7
+      description:
+
+- taxonomy: 导航网站
+  icon: fa-star
+  links: 
+    - title: 导航网站-精简版
+      logo: 
+      url: https://dh.kk89jf.sbs
+      description: 
+    - title: 导航网站-完整版
+      logo: 
+      url: https://dh.958878.xyz
+      description: 
+    - title: 工具达人导航
+      logo:  
+      url: https://toolsdar.com
+      description: 
+    - title: 小众技术导航
+      logo:  
+      url: https://www.xiaozhongjishu.com/
+      description: 
+
+
+- taxonomy: 域名网站
+  icon: fa-star
+  links: 
+    - title: 每年0.67美元顶级域名
+      logo: 
+      url: https://www.spaceship.com/
+      description: 
+    - title: namesilo主力域名
+      logo: 
+      url: https://www.namesilo.com/
+      description: 
+    - title: 第三选择域名
+      logo:  
+      url: https://www.name.com/zh-cn/
+      description: 
+    - title: dynv6二级域名
+      logo: 
+      url: https://dynv6.com/
+      description: 
+    - title: freedomain二级域名
+      logo: 
+      url: https://freedomain.one/
+      description: 
+    - title: L53二级域名
+      logo:  
+      url: https://customer.l53.net/
+      description: 
+    - title: 双向解析永久域名cloudns
+      logo: 
+      url: https://www.cloudns.net/main/
+      description: 
+    - title: 永久免费公益3个域名
+      logo: 
+      url: https://register.us.kg/panel/main
+      description: 
+    - title: 博客
+      logo:  
+      url: https://ccp.cloudaccess.net/clientarea.php
+      description: 
+
+- taxonomy: 网络IP
+  icon: fa-star
+  links: 
+    - title: 查询自己IP
+      logo: 
+      url: https://whoer.net/zh
+      description: 
+    - title: IP检测查询
+      logo: 
+      url: https://ping0.cc/ip
+      description: 
+    - title: IP反欺诈
+      logo:  
+      url: https://scamalytics.com/
+      description: 
+    - title: 反代IP
+      logo: 
+      url: https://ipchaxun.com/
+      description: 
+    - title: 反代域名
+      logo: 
+      url: https://www.itdog.cn/ping/8080p.jiwoo.link
+      description: 
+    - title: UUID生成网站
+      logo:  
+      url: https://www.uuidgenerator.net/
+      description: 
+    - title: 美国地址生成器
+      logo: 
+      url: https://shenfendaquan.com/
+      description: 
+    - title: 美国户照KYV
+      logo: 
+      url: https://www.google.com/search?sca_esv=986cfd32cb66a37f&sca_upv=1&sxsrf=ADLYWIJL6fM0FAiIsbJtF83Btw5O7W2aVA:1717118822687&q=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81&source=lnms&sa=X&ved=2ahUKEwigldqL3raGAxU2M0QIHQrLBHUQ0pQJegQIDBAB&biw=1872&bih=1004&dpr=1&udm=2#vhid=WndVI3E4vqLBzM&vssid=mosaic
+      description: 
+    - title: 优选ip库
+      logo:  
+      url: https://345673.xyz/#
+      description: 
+    - title: 优选ip库02
+      logo:  
+      url: https://ipdb.api.030101.xyz/
+      description: 
+    - title: 优选ip库03
+      logo:  
+      url: https://github.com/ymyuuu/IPDB
+      description: 
+    - title: 优选ip库04
+      logo:  
+      url: https://ip.164746.xyz/
+      description:
+    - title: 苹果IMEI生成器
+      logo:  
+      url: https://www.imei.info/zh/Apple_imei_generator/
+      description:
+    - title: proxy6-VPS官网
+      logo:  
+      url: https://proxy6.net/en/
+      description:
       
+- taxonomy: 魔法工具
+  icon: fa-star
+  links: 
+    - title: ClashMeta安卓端
+      logo: 
+      url: https://github.com/MetaCubeX/ClashMetaForAndroid
+      description: 
+    - title: ClashMeta电脑端
+      logo: 
+      url: https://github.com/clash-verge-rev/clash-verge-rev
+      description: 
+    - title: v2rayN电脑端
+      logo: 
+      url: https://github.com/2dust/v2rayN
+      description: 
+    - title: v2rayN安卓端
+      logo: 
+      url: https://github.com/2dust/v2rayNG
+      description:
+    - title: 伊朗大神MahsaNG安卓端
+      logo: 
+      url: https://github.com/GFW-knocker/MahsaNG
+      description:
+    - title: Nekoray电脑PC端
+      logo: 
+      url: https://github.com/MatsuriDayo/nekoray
+      description:
+    - title: Nekoray安卓端
+      logo: 
+      url: https://github.com/Matsuridayo/NekoBoxForAndroid/releases
+      description:
+    - title: SingBox
+      logo: 
+      url: https://github.com/GUI-for-Cores/GUI.for.SingBox
+      description:
+
 - taxonomy: 机场节点
   icon: fa-star
   links: 
@@ -614,24 +533,94 @@
       url: https://cloud-port.xyz/#/dashboard
       description: 
 
-      
-- taxonomy: 导航网站
+
+- taxonomy: 游戏
   icon: fa-star
   links: 
-    - title: 导航网站-精简版
+    - title: 游侠网
       logo: 
-      url: https://dh.kk89jf.sbs
+      url: https://game.ali213.net
       description: 
-    - title: 导航网站-完整版
+    - title: 3DM论坛
       logo: 
-      url: https://dh.958878.xyz
+      url: http://bbs.3dmgame.com/forum.php
       description: 
-    - title: 工具达人导航
+    - title: CMDW单机游戏
       logo:  
-      url: https://toolsdar.com
+      url: https://sway.cloud.microsoft/GL604D7EZOYQArSA?ref=Link
       description: 
-    - title: 小众技术导航
+    - title: 番茄游戏
+      logo: 
+      url: https://www.d3x7.com
+      description: 
+    - title: 5dmcity单机游戏
+      logo: 
+      url: http://www.5dmcity.top
+      description: 
+    - title: KZ游戏
       logo:  
-      url: https://www.xiaozhongjishu.com/
+      url: https://www.kzyx.cc
+      description: 
+    - title: 988YX单机游戏
+      logo:  
+      url: https://www.988yx.top
+      description: 
+
+      
+- taxonomy: 视频讲解
+  icon: fa-star
+  links: 
+    - title: 导航网址-简单版
+      logo: 
+      url: https://www.youtube.com/watch?v=ROEUAkCbDaU
+      description: 
+    - title: 导航网址-完整版
+      logo: 
+      url: https://www.youtube.com/watch?v=VLp0aox9Pb8&t=358s
+      description: 
+    - title: 利用cloudflare创建域名邮箱
+      logo: 
+      url: https://www.youtube.com/watch?v=JDwK4dw8UeA
+      description: 
+    - title: 节点制作
+      logo: 
+      url: https://www.youtube.com/watch?v=L46M6Xyahm0
+      description: 
+      
+
+- taxonomy: 学习网站
+  icon: fa-star
+  links: 
+    - title: 千图网
+      logo: 
+      url: https://www.58pic.com
+      description: 
+    - title: 繁星摄影
+      logo: 
+      url: https://52fanxing.com
+      description: 
+    - title: 幻云PPY办公资源
+      logo: 
+      url: https://mp.weixin.qq.com/s/QudagotLf0FfqxdIuFKdfw
+      description: 
+    - title: QiuQuan'sBlog软件分享
+      logo: 
+      url: http://www.qiuquan.cc
+      description: 
+    - title: 配色器
+      logo: 
+      url: https://mycolor.space
+      description: 
+    - title: 在线抠图
+      logo: 
+      url: https://www.51mo.com/cutout
+      description: 
+    - title: 趣猫资源
+      logo: 
+      url: https://www.mgzyfx.com
+      description: 
+    - title: 设计师
+      logo: 
+      url: https://www.yuque.com/sssc/sucai/jc
       description: 
 ---
