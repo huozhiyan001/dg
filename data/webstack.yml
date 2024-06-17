@@ -9,15 +9,15 @@
            logo: 
            url: https://www.youtube.com/
            description: 油管网站
-       - title: 谷歌搜索
-         logo: 
-         url: https://www.google.com
-         description: 
-       - title: cloudflare
-         logo: 
-         url: https://dash.cloudflare.com/
-         description: cloudflare编辑CF代码
-       - title: ico图标
+        - title: 谷歌搜索
+          logo: 
+          url: https://www.google.com
+          description: 
+        - title: cloudflare
+          logo: 
+          url: https://dash.cloudflare.com/
+          description: cloudflare编辑CF代码
+        - title: ico图标
          logo:  
          url: https://icon-sets.iconify.design/?query=google
          description: ico图标网站
@@ -42,161 +42,161 @@
          url: https://www.google.com/search?q=%E6%B1%87%E7%8E%87&sca_esv=b41f59bb11203993&sca_upv=1&sxsrf=ADLYWILazxXgdpTGMJJTQZw3huF-0QlhTg%3A1718269264407&ei=ULVqZqnAGK7A0PEPmLeU4As&ved=0ahUKEwipqIjpm9iGAxUuIDQIHZgbBbwQ4dUDCBA&uact=5&oq=%E6%B1%87%E7%8E%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiBuaxh-eOhzIKECMYgAQYJxiKBTIKECMYgAQYJxiKBTIFEAAYgAQyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBRAAGIAEMgoQABiABBhDGIoFMgUQABiABDIKEAAYgAQYQxiKBTIFEAAYgARIqQlQlQVYlQVwAXgBkAEAmAHPAaABzwGqAQMyLTG4AQPIAQD4AQGYAgKgAtcBwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMC4xoAfEBQ&sclient=gws-wiz-serp
          description: 
 
-  - term: 软件
-    links:
+   - term: 软件
+     links:
       - title: 油猴子
         logo: 
         url: https://greasyfork.org/zh-CN
         description: 
-     - title: 纸飞机
-       logo: 
-       url: https://telegram.org/
-       description: 
-     - title: Telegram-X
-       logo: 
-       url: https://telegram-x.en.download.it/android/download
-       description: 
-     - title: 吾爱破解论坛
-       logo: 
-       url: https://www.52pojie.cn
-       description: 
-     - title: 卡饭论坛
-       logo: 
-       url: http://bbs.kafan.cn
-       description: 
-     - title: 永乐汉化论坛
-       logo: 
-       url: http://www.ylhh.net/forum.php
-       description: 
-     - title: 乐享网(安卓软件)
-       logo: 
-       url: https://www.lxapk.com
-       description: 
-     - title: 亿破姐
-       logo: 
-       url: https://www.ypojie.com
-       description: 
-     - title: 致美化
-       logo: 
-       url: https://zhutix.com/
-       description: 
-     - title: KimiChat官网
-       logo: 
-       url: https://kimi.moonshot.cn
-       description: 
-     - title: 423Down(安卓软件)
-       logo: 
-       url: https://www.423down.com
-       description: 
-     - title: 小鱼儿yr系统
-       logo: 
-       url: https://www.yrxitong.com
-       description: 
-     - title: th_sjy汉化分享博客
-       logo: 
-       url: http://www.th-sjy.com
-       description: 
-     - title: 悦宇玩机
-       logo: 
-       url: https://heihei.run
-       description: 
-     - title: 雪域工作室
-       logo: 
-       url: https://www.xueyu521.cn
-       description: 
-     - title: 繁星摄影
-       logo: 
-       url: https://52fanxing.com
-       description: 
-     - title: 设计师
-       logo: 
-       url: https://www.yuque.com/sssc/sucai/jc
-       description: 
-     - title: 趣猫资源
-       logo: 
-       url: https://www.mgzyfx.com
-       description: 
-     - title: 爱工作
-       logo: 
-       url: http://anifx8.com
-       description: 
-     - title: 搜片
-       logo: 
-       url: https://soupian.one
-       description: 
-     - title: 根据图片猜出地址
-       logo: 
-       url: https://geospy.ai/
-       description: 
-     - title: X
-       logo: 
-       url: https://x.com/?lang=en
-       description: 
-     - title: 抓包giffgaff eSIM 写入5ber
-       logo: 
-       url: https://www.charlesproxy.com/latest-release/download.do
-       description:
-     - title: 在线PDF编辑
-       logo: 
-       url: https://www.sejda.com/
-       description:
+      - title: 纸飞机
+        logo: 
+        url: https://telegram.org/
+        description: 
+      - title: Telegram-X
+        logo: 
+        url: https://telegram-x.en.download.it/android/download
+        description: 
+      - title: 吾爱破解论坛
+        logo: 
+        url: https://www.52pojie.cn
+        description: 
+      - title: 卡饭论坛
+        logo: 
+        url: http://bbs.kafan.cn
+        description: 
+      - title: 永乐汉化论坛
+        logo: 
+        url: http://www.ylhh.net/forum.php
+        description: 
+      - title: 乐享网(安卓软件)
+        logo: 
+        url: https://www.lxapk.com
+        description: 
+      - title: 亿破姐
+        logo: 
+        url: https://www.ypojie.com
+        description: 
+      - title: 致美化
+        logo: 
+        url: https://zhutix.com/
+        description: 
+      - title: KimiChat官网
+        logo: 
+        url: https://kimi.moonshot.cn
+        description: 
+      - title: 423Down(安卓软件)
+        logo: 
+        url: https://www.423down.com
+        description: 
+      - title: 小鱼儿yr系统
+        logo: 
+        url: https://www.yrxitong.com
+        description: 
+      - title: th_sjy汉化分享博客
+        logo: 
+        url: http://www.th-sjy.com
+        description: 
+      - title: 悦宇玩机
+        logo: 
+        url: https://heihei.run
+        description: 
+      - title: 雪域工作室
+        logo: 
+        url: https://www.xueyu521.cn
+        description: 
+      - title: 繁星摄影
+        logo: 
+        url: https://52fanxing.com
+        description: 
+      - title: 设计师
+        logo: 
+        url: https://www.yuque.com/sssc/sucai/jc
+        description: 
+      - title: 趣猫资源
+        logo: 
+        url: https://www.mgzyfx.com
+        description: 
+      - title: 爱工作
+        logo: 
+        url: http://anifx8.com
+        description: 
+      - title: 搜片
+        logo: 
+        url: https://soupian.one
+        description: 
+      - title: 根据图片猜出地址
+        logo: 
+        url: https://geospy.ai/
+        description: 
+      - title: X
+        logo: 
+        url: https://x.com/?lang=en
+        description: 
+      - title: 抓包giffgaff eSIM 写入5ber
+        logo: 
+        url: https://www.charlesproxy.com/latest-release/download.do
+        description:
+      - title: 在线PDF编辑
+        logo: 
+        url: https://www.sejda.com/
+        description:
 
-   - term: 邮箱
-     links:
-     - title: 谷歌邮箱
-       logo: 
-       url: https://mail.google.com/mail
-       description: 
-     - title: proton邮箱
-       logo: 
-       url: https://mail.proton.me/u/0/inbox
-       description: 
-     - title: 微软邮箱
-       logo:  
-       url: https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
-       description: 
-     - title: QQ邮箱
-       logo: 
-       url: https://mail.qq.com/?cancel_login=true&from=session_timeout
-       description: 
-     - title: 临时邮箱
-       logo: 
-       url: https://www.linshiyouxiang.net/
-       description: 
+    - term: 邮箱
+      links:
+       - title: 谷歌邮箱
+        logo: 
+        url: https://mail.google.com/mail
+        description: 
+      - title: proton邮箱
+        logo: 
+        url: https://mail.proton.me/u/0/inbox
+        description: 
+      - title: 微软邮箱
+        logo:  
+        url: https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
+        description: 
+      - title: QQ邮箱
+        logo: 
+        url: https://mail.qq.com/?cancel_login=true&from=session_timeout
+        description: 
+      - title: 临时邮箱
+        logo: 
+        url: https://www.linshiyouxiang.net/
+        description: 
 
-  - term: 智能AI
-    links: 
-     - title: ChatGpt官网
-       logo:  
-       url: https://chatgpt.com/?oai-dm=1
-       description: 
-     - title: 我自己做的ChatGpt4.0
-       logo: 
-       url: https://gq86p6-3000.csb.app/
-       description: 
-     - title: 我自己ChatGPT4.0可搭建模型
-       logo: 
-       url: https://www.coze.com/space/7357719953564975110/bot/7357720354968092678
-       description: 
-     - title: 万知
-       logo: 
-       url: https://www.wanzhi.com/home
-       description: 
+   - term: 智能AI
+     links: 
+      - title: ChatGpt官网
+        logo:  
+        url: https://chatgpt.com/?oai-dm=1
+        description: 
+      - title: 我自己做的ChatGpt4.0
+        logo: 
+        url: https://gq86p6-3000.csb.app/
+        description: 
+      - title: 我自己ChatGPT4.0可搭建模型
+        logo: 
+        url: https://www.coze.com/space/7357719953564975110/bot/7357720354968092678
+        description: 
+      - title: 万知
+        logo: 
+        url: https://www.wanzhi.com/home
+        description: 
 
-  - term: 浏览器插件
-    links: 
-     - title: 谷歌后台
-       logo: 
-       url: chrome://flags/
-       description: 
-     - title: IDM Integration Module
+   - term: 浏览器插件
+     links: 
+      - title: 谷歌后台
+        logo: 
+        url: chrome://flags/
+        description: 
+      - title: IDM Integration Module
        logo: 
        url: https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
        description: 
      - title: 沉浸式翻译
-      logo: 
+       logo: 
        url: https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN
-      description: 
+       description: 
      - title: Youtube無痛字幕
        logo: 
        url: https://chromewebstore.google.com/detail/%E7%84%A1%E7%97%9B%E5%AD%97%E5%B9%95/bkohkbgpnmhplcaheihaiomghmgfjlba
@@ -231,7 +231,7 @@
        description: 
      - title: 油猴子tampermonkey
        logo: 
-      url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo
+       url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo
        description: 
 
   - term: 手机平台
@@ -249,8 +249,8 @@
        url: https://esimplus.me/mobile-data
        description: 
 
-  - term: 金融网购平台
-    links: 
+ - term: 金融网购平台
+   links: 
      - title: Fomecard虚拟信用卡
        logo: 
        url: https://tsy.fomecard.top
@@ -271,10 +271,10 @@
        logo:  
        url: https://www.okx.com/zh-hans
        description: 
-    - title: GATE芝麻开门交易所
-      logo: 
-      url: https://www.gate.io/zh
-      description: 
+     - title: GATE芝麻开门交易所
+       logo: 
+       url: https://www.gate.io/zh
+       description: 
      - title: 非小号货币参考
        logo: 
        url: https://www.feixiaohao.com/
@@ -294,65 +294,65 @@
 
   - term: 源代码
     links: 
-     - title: 导航源代码-完整版
-       logo: 
-       url: https://github.com/afengxiang/afx
-       description: 
-     - title: 导航源代码-简化版
-       logo: 
-       url: https://github.com/shiteThings/cloudflare-navpage/blob/main/index.js
-       description: 
-     - title: 微信公众号下载视频
-       logo:  
-       url: https://github.com/putyy/res-downloader
-       description: 
-     - title: 3M大佬
-       logo:  
-       url: https://github.com/cmliu
-       description: 
-     - title: 3K大佬
-       logo:  
-       url: https://github.com/3Kmfi6HP/EDtunnel
-       description: 
-     - title: 白哥软件库
-       logo:  
-       url: https://docs.bestip.one/
-       description: 
-     - title: 影梭定位
-       logo:  
-       url: https://github.com/ZCShou/GoGoGo
-       description: 
-     - title: 虚拟定位助手
-       logo:  
-       url: https://github.com/wyx176/mockgps
-       description:
-     - title: 摩尼定位
-       logo:  
-       url: https://moni.bangnimang.net/
-       description: 
-     - title: 定位工具网盘
-       logo:  
-       url: https://pan.quark.cn/s/135c2a4fd11d#/list/share/0fced76037a049eba81ba54875282d56-%E5%AE%9A%E4%BD%8D%E5%B7%A5%E5%85%B7
-       description:
+      - title: 导航源代码-完整版
+        logo: 
+        url: https://github.com/afengxiang/afx
+        description: 
+      - title: 导航源代码-简化版
+        logo: 
+        url: https://github.com/shiteThings/cloudflare-navpage/blob/main/index.js
+        description: 
+      - title: 微信公众号下载视频
+        logo:  
+        url: https://github.com/putyy/res-downloader
+        description: 
+      - title: 3M大佬
+        logo:  
+        url: https://github.com/cmliu
+        description: 
+      - title: 3K大佬
+        logo:  
+        url: https://github.com/3Kmfi6HP/EDtunnel
+        description: 
+      - title: 白哥软件库
+        logo:  
+        url: https://docs.bestip.one/
+        description: 
+      - title: 影梭定位
+        logo:  
+        url: https://github.com/ZCShou/GoGoGo
+        description: 
+      - title: 虚拟定位助手
+        logo:  
+        url: https://github.com/wyx176/mockgps
+        description:
+      - title: 摩尼定位
+        logo:  
+        url: https://moni.bangnimang.net/
+        description: 
+      - title: 定位工具网盘
+        logo:  
+        url: https://pan.quark.cn/s/135c2a4fd11d#/list/share/0fced76037a049eba81ba54875282d56-%E5%AE%9A%E4%BD%8D%E5%B7%A5%E5%85%B7
+        description:
 
   - term: 导航网站
     links: 
-     - title: 导航网站-精简版
-       logo: 
-       url: https://dh.kk89jf.sbs
-       description: 
-     - title: 导航网站-完整版
-       logo: 
-       url: https://dh.958878.xyz
-       description: 
-     - title: 工具达人导航
-       logo:  
-       url: https://toolsdar.com
-       description: 
-     - title: 小众技术导航
-       logo:  
-       url: https://www.xiaozhongjishu.com/
-       description: 
+      - title: 导航网站-精简版
+        logo: 
+        url: https://dh.kk89jf.sbs
+        description: 
+      - title: 导航网站-完整版
+        logo: 
+        url: https://dh.958878.xyz
+        description: 
+      - title: 工具达人导航
+        logo:  
+        url: https://toolsdar.com
+        description: 
+      - title: 小众技术导航
+        logo:  
+        url: https://www.xiaozhongjishu.com/
+        description: 
 
 
 - taxonomy: 域名网站
