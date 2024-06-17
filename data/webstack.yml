@@ -537,6 +537,43 @@
       description: 
 
 
+- taxonomy: 学习网站
+  icon: fa-star
+  links: 
+    - title: 千图网
+      logo: 
+      url: https://www.58pic.com
+      description: 
+    - title: 繁星摄影
+      logo: 
+      url: https://52fanxing.com
+      description: 
+    - title: 幻云PPY办公资源
+      logo: 
+      url: https://mp.weixin.qq.com/s/QudagotLf0FfqxdIuFKdfw
+      description: 
+    - title: QiuQuan'sBlog软件分享
+      logo: 
+      url: http://www.qiuquan.cc
+      description: 
+    - title: 配色器
+      logo: 
+      url: https://mycolor.space
+      description: 
+    - title: 在线抠图
+      logo: 
+      url: https://www.51mo.com/cutout
+      description: 
+    - title: 趣猫资源
+      logo: 
+      url: https://www.mgzyfx.com
+      description: 
+    - title: 设计师
+      logo: 
+      url: https://www.yuque.com/sssc/sucai/jc
+      description: 
+
+      
 - taxonomy: 导航网站
   icon: fa-star
   links: 
