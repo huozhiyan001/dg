@@ -424,6 +424,22 @@
       logo:  
       url: https://docs.bestip.one/
       description: 
+    - title: 影梭定位
+      logo:  
+      url: https://github.com/ZCShou/GoGoGo
+      description: 
+    - title: 虚拟定位助手
+      logo:  
+      url: https://github.com/wyx176/mockgps
+      description:
+    - title: 摩尼定位
+      logo:  
+      url: https://moni.bangnimang.net/
+      description: 
+    - title: 定位工具网盘
+      logo:  
+      url: https://pan.quark.cn/s/135c2a4fd11d#/list/share/0fced76037a049eba81ba54875282d56-%E5%AE%9A%E4%BD%8D%E5%B7%A5%E5%85%B7
+      description:
 
       
 - taxonomy: 魔法工具
