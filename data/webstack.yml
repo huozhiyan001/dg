@@ -237,6 +237,10 @@
 - taxonomy: 手机平台
   icon: fa-star
   links: 
+    - title: 手机投屏
+      logo:  
+      url: https://github.com/barry-ran/QtScrcpy
+      description: 
     - title: 5ber手机卡
       logo:  
       url: https://esim.5ber.com/?language=zh-CN
