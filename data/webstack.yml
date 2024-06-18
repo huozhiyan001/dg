@@ -68,7 +68,7 @@
 - taxonomy: 综合资源
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 发现产品
+    - term: 域名网站
       links:
         - title: 每年0.67美元顶级域名
           logo: 
@@ -107,101 +107,100 @@
           url: https://ccp.cloudaccess.net/clientarea.php
           description: 
 
-- taxonomy: 网络IP
-  icon: fa-star
-  links: 
-    - title: 查询自己IP
-      logo: 
-      url: https://whoer.net/zh
-      description: 
-    - title: IP检测查询
-      logo: 
-      url: https://ping0.cc/ip
-      description: 
-    - title: IP反欺诈
-      logo:  
-      url: https://scamalytics.com/
-      description: 
-    - title: 反代IP
-      logo: 
-      url: https://ipchaxun.com/
-      description: 
-    - title: 反代域名
-      logo: 
-      url: https://www.itdog.cn/ping/8080p.jiwoo.link
-      description: 
-    - title: UUID生成网站
-      logo:  
-      url: https://www.uuidgenerator.net/
-      description: 
-    - title: 美国地址生成器
-      logo: 
-      url: https://shenfendaquan.com/
-      description: 
-    - title: 美国户照KYV
-      logo: 
-      url: https://www.google.com/search?sca_esv=986cfd32cb66a37f&sca_upv=1&sxsrf=ADLYWIJL6fM0FAiIsbJtF83Btw5O7W2aVA:1717118822687&q=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81&source=lnms&sa=X&ved=2ahUKEwigldqL3raGAxU2M0QIHQrLBHUQ0pQJegQIDBAB&biw=1872&bih=1004&dpr=1&udm=2#vhid=WndVI3E4vqLBzM&vssid=mosaic
-      description: 
-    - title: 优选ip库
-      logo:  
-      url: https://345673.xyz/#
-      description: 
-    - title: 优选ip库02
-      logo:  
-      url: https://ipdb.api.030101.xyz/
-      description: 
-    - title: 优选ip库03
-      logo:  
-      url: https://github.com/ymyuuu/IPDB
-      description: 
-    - title: 优选ip库04
-      logo:  
-      url: https://ip.164746.xyz/
-      description:
-    - title: 苹果IMEI生成器
-      logo:  
-      url: https://www.imei.info/zh/Apple_imei_generator/
-      description:
-    - title: proxy6-VPS官网
-      logo:  
-      url: https://proxy6.net/en/
-      description:
+    - term: 网络查询
+      links:
+        - title: 查询自己IP
+          logo: 
+          url: https://whoer.net/zh
+          description: 
+        - title: IP检测查询
+          logo: 
+          url: https://ping0.cc/ip
+          description: 
+        - title: IP反欺诈
+          logo:  
+          url: https://scamalytics.com/
+          description: 
+        - title: 反代IP
+          logo: 
+          url: https://ipchaxun.com/
+          description: 
+        - title: 反代域名
+          logo: 
+          url: https://www.itdog.cn/ping/8080p.jiwoo.link
+          description: 
+        - title: UUID生成网站
+          logo:  
+          url: https://www.uuidgenerator.net/
+          description: 
+        - title: 美国地址生成器
+          logo: 
+          url: https://shenfendaquan.com/
+          description: 
+        - title: 美国户照KYV
+          logo: 
+          url: https://www.google.com/search?sca_esv=986cfd32cb66a37f&sca_upv=1&sxsrf=ADLYWIJL6fM0FAiIsbJtF83Btw5O7W2aVA:1717118822687&q=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81&source=lnms&sa=X&ved=2ahUKEwigldqL3raGAxU2M0QIHQrLBHUQ0pQJegQIDBAB&biw=1872&bih=1004&dpr=1&udm=2#vhid=WndVI3E4vqLBzM&vssid=mosaic
+          description: 
+        - title: 优选ip库
+          logo:  
+          url: https://345673.xyz/#
+          description: 
+        - title: 优选ip库02
+          logo:  
+          url: https://ipdb.api.030101.xyz/
+          description: 
+        - title: 优选ip库03
+          logo:  
+          url: https://github.com/ymyuuu/IPDB
+          description: 
+        - title: 优选ip库04
+          logo:  
+          url: https://ip.164746.xyz/
+          description:
+        - title: 苹果IMEI生成器
+          logo:  
+          url: https://www.imei.info/zh/Apple_imei_generator/
+          description:
+        - title: proxy6-VPS官网
+          logo:  
+          url: https://proxy6.net/en/
+          description:
 
-- taxonomy: 网购平台
-  icon: fa-star
-  links: 
-    - title: Fomecard虚拟信用卡
-      logo: 
-      url: https://tsy.fomecard.top
-      description: 
-    - title: 币安
-      logo: 
-      url: https://www.binance.com/zh-CN
-      description: 
-    - title: 欧易
-      logo:  
-      url: https://www.okx.com/zh-hans
-      description: 
-    - title: GATE芝麻开门交易所
-      logo: 
-      url: https://www.gate.io/zh
-      description: 
-    - title: 非小号货币参考
-      logo: 
-      url: https://www.feixiaohao.com/
-      description: 
-    - title: 接码平台
-      logo:  
-      url: https://sms-activate.org/cn/getNumber
-      description: 
-    - title: 5ber手机卡
-      logo:  
-      url: https://esim.5ber.com/?language=zh-CN
-      description: 
-    - title: esimplus爱沙尼亚手机卡
-      logo:  
-      url: https://esimplus.me/mobile-data
-      description: 
+    - term: 网购平台
+      links:
+        - title: Fomecard虚拟信用卡
+          logo: 
+          url: https://tsy.fomecard.top
+          description: 
+        - title: 币安
+          logo: 
+          url: https://www.binance.com/zh-CN
+          description: 
+        - title: 欧易
+          logo:  
+          url: https://www.okx.com/zh-hans
+          description: 
+        - title: GATE芝麻开门交易所
+          logo: 
+          url: https://www.gate.io/zh
+          description: 
+        - title: 非小号货币参考
+          logo: 
+          url: https://www.feixiaohao.com/
+          description: 
+        - title: 接码平台
+          logo:  
+          url: https://sms-activate.org/cn/getNumber
+          description: 
+        - title: 5ber手机卡
+          logo:  
+          url: https://esim.5ber.com/?language=zh-CN
+          description: 
+        - title: esimplus爱沙尼亚手机卡
+          logo:  
+          url: https://esimplus.me/mobile-data
+          description: 
+
 
 - taxonomy: 软件
   icon: fa-star
@@ -299,179 +298,174 @@
       url: https://www.charlesproxy.com/latest-release/download.do
       description:
 
-- taxonomy: 游戏
-  icon: fa-star
-  links: 
-    - title: 游侠网
-      logo: 
-      url: https://game.ali213.net
-      description: 
-    - title: 3DM论坛
-      logo: 
-      url: http://bbs.3dmgame.com/forum.php
-      description: 
-    - title: CMDW单机游戏
-      logo:  
-      url: https://sway.cloud.microsoft/GL604D7EZOYQArSA?ref=Link
-      description: 
-    - title: 番茄游戏
-      logo: 
-      url: https://www.d3x7.com
-      description: 
-    - title: 5dmcity单机游戏
-      logo: 
-      url: http://www.5dmcity.top
-      description: 
-    - title: KZ游戏
-      logo:  
-      url: https://www.kzyx.cc
-      description: 
-    - title: 988YX单机游戏
-      logo:  
-      url: https://www.988yx.top
-      description: 
+    - term: 源代码
+      links:
+        - title: 导航源代码-完整版
+          logo: 
+          url: https://github.com/afengxiang/afx
+          description: 
+        - title: 导航源代码-简化版
+          logo: 
+          url: https://github.com/shiteThings/cloudflare-navpage/blob/main/index.js
+          description: 
+        - title: 微信公众号下载视频
+          logo:  
+          url: https://github.com/putyy/res-downloader
+          description: 
+        - title: 3M大佬
+          logo:  
+          url: https://github.com/cmliu
+          description: 
+        - title: 3K大佬
+          logo:  
+          url: https://github.com/3Kmfi6HP/EDtunnel
+          description: 
+        - title: 白哥软件库
+          logo:  
+          url: https://docs.bestip.one/
+          description: 
+
+    - term: 游戏
+      links:
+        - title: 游侠网
+          logo: 
+          url: https://game.ali213.net
+          description: 
+        - title: 3DM论坛
+          logo: 
+          url: http://bbs.3dmgame.com/forum.php
+          description: 
+        - title: CMDW单机游戏
+          logo:  
+          url: https://sway.cloud.microsoft/GL604D7EZOYQArSA?ref=Link
+          description: 
+        - title: 番茄游戏
+          logo: 
+          url: https://www.d3x7.com
+          description: 
+        - title: 5dmcity单机游戏
+          logo: 
+          url: http://www.5dmcity.top
+          description: 
+        - title: KZ游戏
+          logo:  
+          url: https://www.kzyx.cc
+          description: 
+        - title: 988YX单机游戏
+          logo:  
+          url: https://www.988yx.top
+          description: 
       
-- taxonomy: 视频讲解
-  icon: fa-star
-  links: 
-    - title: 导航网址-简单版
-      logo: 
-      url: https://www.youtube.com/watch?v=ROEUAkCbDaU
-      description: 
-    - title: 导航网址-完整版
-      logo: 
-      url: https://www.youtube.com/watch?v=VLp0aox9Pb8&t=358s
-      description: 
-    - title: 利用cloudflare创建域名邮箱
-      logo: 
-      url: https://www.youtube.com/watch?v=JDwK4dw8UeA
-      description: 
-    - title: 节点制作
-      logo: 
-      url: https://www.youtube.com/watch?v=L46M6Xyahm0
-      description: 
+    - term: 视频讲解
+      links:
+        - title: 导航网址-简单版
+          logo: 
+          url: https://www.youtube.com/watch?v=ROEUAkCbDaU
+          description: 
+        - title: 导航网址-完整版
+          logo: 
+          url: https://www.youtube.com/watch?v=VLp0aox9Pb8&t=358s
+          description: 
+        - title: 利用cloudflare创建域名邮箱
+          logo: 
+          url: https://www.youtube.com/watch?v=JDwK4dw8UeA
+          description: 
+        - title: 节点制作
+          logo: 
+          url: https://www.youtube.com/watch?v=L46M6Xyahm0
+          description: 
 
-- taxonomy: 源码
-  icon: fa-star
-  links: 
-    - title: 导航源代码-完整版
-      logo: 
-      url: https://github.com/afengxiang/afx
-      description: 
-    - title: 导航源代码-简化版
-      logo: 
-      url: https://github.com/shiteThings/cloudflare-navpage/blob/main/index.js
-      description: 
-    - title: 微信公众号下载视频
-      logo:  
-      url: https://github.com/putyy/res-downloader
-      description: 
-    - title: 3M大佬
-      logo:  
-      url: https://github.com/cmliu
-      description: 
-    - title: 3K大佬
-      logo:  
-      url: https://github.com/3Kmfi6HP/EDtunnel
-      description: 
-    - title: 白哥软件库
-      logo:  
-      url: https://docs.bestip.one/
-      description: 
 
-- taxonomy: 魔法
-  icon: fa-star
-  links: 
-    - title: ClashMeta安卓端
-      logo: 
-      url: https://github.com/MetaCubeX/ClashMetaForAndroid
-      description: 
-    - title: ClashMeta电脑端
-      logo: 
-      url: https://github.com/clash-verge-rev/clash-verge-rev
-      description: 
-    - title: v2rayN电脑端
-      logo: 
-      url: https://github.com/2dust/v2rayN
-      description: 
-    - title: v2rayN安卓端
-      logo: 
-      url: https://github.com/2dust/v2rayNG
-      description:
-    - title: 伊朗大神MahsaNG安卓端
-      logo: 
-      url: https://github.com/GFW-knocker/MahsaNG
-      description:
+    - term: 魔方工具
+      links:
+        - title: ClashMeta安卓端
+          logo: 
+          url: https://github.com/MetaCubeX/ClashMetaForAndroid
+          description: 
+        - title: ClashMeta电脑端
+          logo: 
+          url: https://github.com/clash-verge-rev/clash-verge-rev
+          description: 
+        - title: v2rayN电脑端
+          logo: 
+          url: https://github.com/2dust/v2rayN
+          description: 
+        - title: v2rayN安卓端
+          logo: 
+          url: https://github.com/2dust/v2rayNG
+          description:
+        - title: 伊朗大神MahsaNG安卓端
+          logo: 
+          url: https://github.com/GFW-knocker/MahsaNG
+          description:
 
-- taxonomy: 网页插件
-  icon: fa-star
-  links: 
-    - title: 谷歌后台
-      logo: 
-      url: chrome://flags/
-      description: 
-    - title: IDM Integration Module
-      logo: 
-      url: https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
-      description: 
-    - title: 沉浸式翻译
-      logo: 
-      url: https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN
-      description: 
-    - title: Youtube無痛字幕
-      logo: 
-      url: https://chromewebstore.google.com/detail/%E7%84%A1%E7%97%9B%E5%AD%97%E5%B9%95/bkohkbgpnmhplcaheihaiomghmgfjlba
-      description: 
-    - title: 自动跳过 Youtube™ 广告
-      logo: 
-      url: https://chromewebstore.google.com/detail/hmbnhhcgiecenbbkgdoaoafjpeaboine
-      description: 
-    - title: 浮图秀
-      logo: 
-      url: https://chromewebstore.google.com/detail/%E6%B5%AE%E5%9B%BE%E7%A7%80/mgpdnhlllbpncjpgokgfogidhoegebod?hl=zh-CN
-      description: 
-    - title: 视频画中画
-      logo: 
-      url: https://chromewebstore.google.com/detail/%E7%94%BB%E4%B8%AD%E7%94%BB-%E6%B5%AE%E5%8A%A8%E6%92%AD%E6%94%BE%E5%99%A8/adnielbhikcbmegcfampbclagcacboff?hl=zh-CN
-      description: 
-    - title: 长截图GoFullPage
-      logo: 
-      url: https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=zh-CN&utm_source=ext_sidebar
-      description: 
-    - title: 超级复制SuperCopy
-      logo: 
-      url: https://microsoftedge.microsoft.com/addons/detail/supercopy-%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6/ajngnicokpggciejadpplncpajocoapm
-      description: 
-    - title: 购物党自动比价工具
-      logo: 
-      url: https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah?hl=zh-CN
-      description: 
-    - title: 新标签页Infinity
-      logo: 
-      url: https://chromewebstore.google.com/detail/infinity-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-CN
-      description: 
-    - title: 油猴子tampermonkey
-      logo: 
-      url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo
-      description: 
+    - term: 浏览器插件
+      links:
+        - title: 谷歌后台
+          logo: 
+          url: chrome://flags/
+          description: 
+        - title: IDM Integration Module
+          logo: 
+          url: https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
+          description: 
+        - title: 沉浸式翻译
+          logo: 
+          url: https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-pdf%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN
+          description: 
+        - title: Youtube無痛字幕
+          logo: 
+          url: https://chromewebstore.google.com/detail/%E7%84%A1%E7%97%9B%E5%AD%97%E5%B9%95/bkohkbgpnmhplcaheihaiomghmgfjlba
+          description: 
+        - title: 自动跳过 Youtube™ 广告
+          logo: 
+          url: https://chromewebstore.google.com/detail/hmbnhhcgiecenbbkgdoaoafjpeaboine
+          description: 
+        - title: 浮图秀
+          logo: 
+          url: https://chromewebstore.google.com/detail/%E6%B5%AE%E5%9B%BE%E7%A7%80/mgpdnhlllbpncjpgokgfogidhoegebod?hl=zh-CN
+          description: 
+        - title: 视频画中画
+          logo: 
+          url: https://chromewebstore.google.com/detail/%E7%94%BB%E4%B8%AD%E7%94%BB-%E6%B5%AE%E5%8A%A8%E6%92%AD%E6%94%BE%E5%99%A8/adnielbhikcbmegcfampbclagcacboff?hl=zh-CN
+          description: 
+        - title: 长截图GoFullPage
+          logo: 
+          url: https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=zh-CN&utm_source=ext_sidebar
+          description: 
+        - title: 超级复制SuperCopy
+          logo: 
+          url: https://microsoftedge.microsoft.com/addons/detail/supercopy-%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6/ajngnicokpggciejadpplncpajocoapm
+          description: 
+        - title: 购物党自动比价工具
+          logo: 
+          url: https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah?hl=zh-CN
+          description: 
+        - title: 新标签页Infinity
+          logo: 
+          url: https://chromewebstore.google.com/detail/infinity-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh?hl=zh-CN
+          description: 
+        - title: 油猴子tampermonkey
+          logo: 
+          url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo
+          description: 
 
-- taxonomy: 导航网站
-  icon: fa-star
-  links: 
-    - title: 导航网站-精简版
-      logo: 
-      url: https://dh.kk89jf.sbs
-      description: 
-    - title: 导航网站-完整版
-      logo: 
-      url: https://dh.958878.xyz
-      description: 
-    - title: 工具达人导航
-      logo:  
-      url: https://toolsdar.com
-      description: 
-    - title: 小众技术导航
-      logo:  
-      url: https://www.xiaozhongjishu.com/
-      description: 
+    - term: 导航网站
+      links:
+        - title: 导航网站-精简版
+          logo: 
+          url: https://dh.kk89jf.sbs
+          description: 
+        - title: 导航网站-完整版
+          logo: 
+          url: https://dh.958878.xyz
+          description: 
+        - title: 工具达人导航
+          logo:  
+          url: https://toolsdar.com
+          description: 
+        - title: 小众技术导航
+          logo:  
+          url: https://www.xiaozhongjishu.com/
+          description: 
 ---
