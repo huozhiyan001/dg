@@ -65,6 +65,7 @@
       url: https://www.linshiyouxiang.net/
       description: 
 
+
 - taxonomy: 综合资源
   icon: fa-regular fa-lightbulb
   list: 
@@ -374,7 +375,6 @@
           logo: 
           url: https://www.youtube.com/watch?v=L46M6Xyahm0
           description: 
-
 
     - term: 魔方工具
       links:
