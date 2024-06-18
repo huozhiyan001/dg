@@ -14,10 +14,6 @@
     - title: ico图标
       logo:  
       url: https://icon-sets.iconify.design/?query=google
-      description: ico图标网站
-    - title: github官网
-      logo:  
-      url: https://github.com/dashboard
       description: 
     - title: ChatGpt官网
       logo:  
@@ -35,9 +31,9 @@
       logo:  
       url: https://www.wanzhi.com/home
       description: 
-    - title: 假奈非电影网站
+    - title: 谷歌地图
       logo:  
-      url: https://tv.hbys.top/
+      url: https://www.google.com/maps/@41.8304612,-87.6144264,6z?entry=ttu
       description: 
     - title: 翻译
       logo:  
@@ -50,6 +46,10 @@
     - title: 导航网-简化版
       logo:  
       url: https://dh.kk89jf.sbs/
+      description: 
+    - title: 假奈非电影网站
+      logo:  
+      url: https://tv.hbys.top/
       description: 
 
 
@@ -421,6 +421,10 @@
 
     - term: 源代码
       links:
+        - title: github官网
+          logo:  
+          url: https://github.com/dashboard
+          description: 
         - title: 导航源代码-完整版
           logo: 
           url: https://github.com/afengxiang/afx
