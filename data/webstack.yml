@@ -475,7 +475,7 @@
 - taxonomy: 其他采集
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 发现产品
+    - term: 其他产品
       links:
          - title: YouTube
            logo: 
@@ -523,82 +523,6 @@
          - title: UUID生成
            url: https://1024tools.com/uuid/
            description: UUID在线生成
-      	
-      	 - title: 雷锋网
-           logo: images/logos/leiphone.png
-           url: https://www.leiphone.com/
-           description: 人工智能和智能硬件领域的互联网科技媒体
-         - title: 36kr
-           logo: images/logos/36kr.png
-           url: https://36kr.com/
-           description: 创业资讯、科技新闻
-         - title: 数英网
-           logo: images/logos/digitaling.png
-           url: https://www.digitaling.com/
-           description: 数字媒体及职业招聘网站
-         - title: 猎云网
-           logo: images/logos/lieyunwang.png
-           url: https://www.lieyunwang.com/
-           description: 互联网创业项目推荐和创业创新资讯
-         - title: 人人都是产品经理
-           logo: images/logos/woshipm.png
-           url: http://www.woshipm.com/
-           description: 产品经理、产品爱好者学习交流平台
-         - title: 互联网早读课
-           logo: images/logos/zaodula.png
-           url: https://www.zaodula.com/
-           description: 互联网行业深度阅读与学习平台
-         - title: 产品壹佰 
-           logo: images/logos/chanpin100.png
-           url: http://www.chanpin100.com/
-           description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-         - title: PMCAFF
-           logo: images/logos/pmcaff.png
-           url: http://www.pmcaff.com/
-           description: 中国第一产品经理人气组织，专注于研究互联网产品
-         - title: 爱运营
-           logo: images/logos/iyunying.png
-           url: http://www.iyunying.org/
-           description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-         - title: 鸟哥笔记
-           logo: images/logos/niaogebiji.png
-           url: http://www.niaogebiji.com/
-           description: 移动互联网第一干货平台
-         - title: 古田路9号
-           logo: images/logos/gtn9.png
-           url: http://www.gtn9.com/
-           description: 国内专业品牌创意平台
-         - title: 优阁网
-           logo: images/logos/uigreat.png
-           url: http://www.uigreat.com/
-           description: UI设计师学习交流社区
-      	
-    - term: 发现产品
-      links:
-         - title: Producthunt
-           logo: images/logos/producthunt.png
-           url: https://www.producthunt.com/
-           description: 发现新鲜有趣的产品
-         - title: NEXT
-           logo: images/logos/NEXT.png
-           url: https://next.36kr.com/posts
-           description: 不错过任何一个新产品
-         - title: 少数派
-           logo: images/logos/sspai.png
-           url: https://sspai.com/
-           description: 高品质数字消费指南
-         - title: 利器
-           logo: images/logos/liqi.png
-           url: https://liqi.io/
-           description: 创造者和他们的工具
-         - title: Today
-           logo: images/logos/today.png
-           url: http://today.itjuzi.com/
-           description: 为身边的新产品喝彩
-         - title: 小众软件
-           logo: images/logos/appinn.png
-           url: https://faxian.appinn.com/
-           description: 在这里发现更多有趣的应用
       
     - term: 界面灵感
       links:
@@ -684,210 +608,175 @@
   list: 
     - term: 图标素材
       links:
-        - title: Iconfinder
-          logo: images/logos/Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-        - title: iconfont
-          logo: images/logos/iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库
-        - title: iconmonstr
-          logo: images/logos/iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project
-        - title: Icon Archive
-          logo: images/logos/iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons
-        - title: FindIcons
-          logo: images/logos/FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons
-        - title: IcoMoonApp
-          logo: images/logos/IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator
-        - title: easyicon
-          logo: images/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-        - title: flaticon
-          logo: images/logos/flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: images/logos/UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: images/logos/Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: images/logos/fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome
-        - title: ion icons
-          logo: images/logos/ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: images/logos/simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack
+         - title: Iconfinder
+           logo: images/logos/Iconfinder.png
+           url: https://www.iconfinder.com
+           description: 2,100,000+ free and premium vector icons.
+         - title: iconfont
+           logo: images/logos/iconfont.png
+           url: http://www.iconfont.cn/
+           description: 阿里巴巴矢量图标库
+         - title: iconmonstr
+           logo: images/logos/iconmonstr.png
+           url: https://iconmonstr.com/
+           description: Free simple icons for your next project
+         - title: Icon Archive
+           logo: images/logos/iconarchive.png
+           url: http://www.iconarchive.com/
+           description: Search 590,912 free icons
+         - title: FindIcons
+           logo: images/logos/FindIcons.png
+           url: https://findicons.com/
+           description: Search through 300,000 free icons
+         - title: IcoMoonApp
+           logo: images/logos/IcoMoonApp.png
+           url: https://icomoon.io/app/
+           description: Icon Font, SVG, PDF &amp; PNG Generator
+         - title: easyicon
+           logo: images/logos/easyicon.png
+           url: http://www.easyicon.net/
+           description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+         - title: flaticon
+           logo: images/logos/flaticon.png
+           url: https://www.flaticon.com/
+           description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
+         - title: UICloud
+           logo: images/logos/UICloud.png
+           url: http://ui-cloud.com/
+           description: The largest user interface design database in the world.
+         - title: Material icons
+           logo: images/logos/Materialicons.png
+           url: https://material.io/icons/
+           description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
+         - title: Font Awesome Icon
+           logo: images/logos/fontawesomeicon.png
+           url: https://fontawesome.com/icons/
+           description: The complete set of 675 icons in Font Awesome
+         - title: ion icons
+           logo: images/logos/ionicons.png
+           url: http://ionicons.com/
+           description: The premium icon font for Ionic Framework.
+         - title: Simpleline Icons
+           logo: images/logos/simplelineicons.png
+           url: http://simplelineicons.com/
+           description: Simple line Icons pack
       
-    - term: LOGO设计
-      links:
-        - title: Iconsfeed
-          logo: images/logos/iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery
-        - title: iOS Icon Gallery
-          logo: images/logos/iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store
-        - title: World Vector Logo
-          logo: images/logos/worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download
-        - title: Instant Logo Search
-          logo: images/logos/InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly
+     - term: LOGO设计
+       links:
+         - title: Iconsfeed
+           logo: images/logos/iconsfeed.png
+           url: http://www.iconsfeed.com/
+           description: iOS icons gallery
+         - title: iOS Icon Gallery
+           logo: images/logos/iosicongallery.png
+           url: http://iosicongallery.com/
+           description: Showcasing beautiful icon designs from the iOS App Store
+         - title: World Vector Logo
+           logo: images/logos/worldvectorlogo.png
+           url: https://worldvectorlogo.com/
+           description: Brand logos free to download
+         - title: Instant Logo Search
+           logo: images/logos/InstantLogoSearch.png
+           url: http://instantlogosearch.com/
+           description: Search & download thousands of logos instantly
 
-    - term: 平面素材
-      links:
-        - title: freepik
-          logo: images/logos/freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: images/logos/wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
-          logo: images/logos/365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations
-        - title: Medialoot
-          logo: images/logos/Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot
-        - title: 千图网
-          logo: images/logos/qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站
-        - title: 千库网
-          logo: images/logos/qianku.png
-          url: http://588ku.com/
-          description: 免费png图片背景素材下载
-        - title: 我图网
-          logo: images/logos/wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
-        - title: 90设计
-          logo: images/logos/90sheji.png
-          url: http://90sheji.com/
-          description: 电商设计（淘宝美工）千图免费淘宝素材库
-        - title: 昵图网
-          logo: images/logos/nipic.png
-          url: http://www.nipic.com/
-          description: 原创素材共享平台
-        - title: 懒人图库
-          logo: images/logos/lanrentuku.png
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载
-        - title: 素材搜索
-          logo: images/logos/sousucai.png
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合
-        - title: PS饭团网
-          logo: images/logos/psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
-        - title: 素材中国
-          logo: images/logos/sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台
+     - term: 平面素材
+       links:
+         - title: freepik
+           logo: images/logos/freepik.png
+           url: https://www.freepik.com/
+           description: More than a million free vectors, PSD, photos and free icons.
+         - title: wallhalla
+           logo: images/logos/wallhalla.png
+           url: https://wallhalla.com/
+           description: Find awesome high quality wallpapers for desktop and mobile in one place.
+         - title: 365PSD
+           logo: images/logos/365PSD.png
+           url: https://365psd.com/
+           description: Free PSD &amp; Graphics, Illustrations
+         - title: Medialoot
+           logo: images/logos/Medialoot.png
+           url: https://medialoot.com/
+           description: Free &amp; Premium Design Resources &mdash; Medialoot
+         - title: 千图网
+           logo: images/logos/qiantu.png
+           url: http://www.58pic.com/
+           description: 专注免费设计素材下载的网站
+         - title: 千库网
+           logo: images/logos/qianku.png
+           url: http://588ku.com/
+           description: 免费png图片背景素材下载
+         - title: 我图网
+           logo: images/logos/wotu.png
+           url: http://www.ooopic.com/
+           description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
+         - title: 90设计
+           logo: images/logos/90sheji.png
+           url: http://90sheji.com/
+           description: 电商设计（淘宝美工）千图免费淘宝素材库
+         - title: 昵图网
+           logo: images/logos/nipic.png
+           url: http://www.nipic.com/
+           description: 原创素材共享平台
+         - title: 懒人图库
+           logo: images/logos/lanrentuku.png
+           url: http://www.lanrentuku.com/
+           description: 懒人图库专注于提供网页素材下载
+         - title: 素材搜索
+           logo: images/logos/sousucai.png
+           url: http://so.ui001.com/
+           description: 设计素材搜索聚合
+         - title: PS饭团网
+           logo: images/logos/psefan.png
+           url: http://psefan.com/
+           description: 不一样的设计素材库！让自己的设计与众不同！
+         - title: 素材中国
+           logo: images/logos/sccnn.png
+           url: http://www.sccnn.com/
+           description: 免费素材共享平台
       
-    - term: UI资源
-      links:
-        - title: Freebiesbug
-          logo: images/logos/freebiesbug.png
-          url: https://freebiesbug.com/
-          description: Hand-picked resources for web designer and developers, constantly updated.
-        - title: Freebie Supply
-          logo: images/logos/freebiesupply.png
-          url: https://freebiesupply.com/
-          description: Free Resources For Designers
-        - title: 云瑞
-          logo: images/logos/yrucd.png
-          url: https://www.yrucd.com/
-          description: 优秀设计资源的分享网站
-        - title: Designmodo
-          logo: images/logos/Designmodo.png
-          url: https://designmodo.com/
-          description: Web Design Blog and Shop
-        - title: 稀土区
-          logo: images/logos/xituqu.png
-          url: https://xituqu.com/
-          description: 优质设计开发资源分享
-        - title: ui8
-          logo: images/logos/ui8.png
-          url: https://ui8.net/
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-        - title: uplabs
-          logo: images/logos/uplabs.png
-          url: https://www.uplabs.com/
-          description: Daily resources for product designers & developers
-        - title: UIkit.me
-          logo: images/logos/uikitme.png
-          url: http://www.uikit.me/
-          description: 最便捷新鲜的uikit资源下载网站
-        - title: Fribbble
-          logo: images/logos/Fribbble.png
-          url: http://www.fribbble.com/
-          description: Free PSD files and other free design resources by Dribbblers.
-        - title: PrincipleRepo
-          logo: images/logos/PrincipleRepo.png
-          url: http://principlerepo.com/
-          description: Free, High Quality Principle Resources
-      
-    - term: Sketch资源
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: images/logos/Sketch.png
-          description: The digital design toolkit
-        - title: Sketch Measure
-          url: http://utom.design/measure/
-          logo: images/logos/SketchMeasure.png
-          description: Friendly user interface offers you a more intuitive way of making marks.
-        - title: Sketch App Sources
-          url: https://www.sketchappsources.com/
-          logo: images/logos/sketchappsources.png
-          description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
-        - title: Sketch.im
-          url: http://www.sketch.im/
-          logo: images/logos/sketchIm.png
-          description: Sketch 相关资源汇聚
-        - title: Sketch Hunt
-          url: http://sketchhunt.com/
-          logo: images/logos/sketchhunt.png
-          description: Sketch Hunt is an independent blog sharing gems in learning, plugins &amp; design tools for fans of Sketch app.
-        - title: Sketch中文网
-          url: http://www.sketchcn.com/
-          logo: images/logos/sketchcn.png
-          description: 分享最新的Sketch中文手册
-        - title: Awesome Sketch Plugins
-          url: https://awesome-sket.ch/
-          logo: images/logos/AwesomeSketchPlugins.png
-          description: A collection of really useful Sketch plugins.
-        - title: Sketchcasts
-          url: https://www.sketchcasts.net/
-          logo: images/logos/sketchcasts.png
-          description: Learn Sketch Train your design skills with a weekly video tutorial
+     - term: UI资源
+       links:
+         - title: Freebiesbug
+           logo: images/logos/freebiesbug.png
+           url: https://freebiesbug.com/
+           description: Hand-picked resources for web designer and developers, constantly updated.
+         - title: Freebie Supply
+           logo: images/logos/freebiesupply.png
+           url: https://freebiesupply.com/
+           description: Free Resources For Designers
+         - title: 云瑞
+           logo: images/logos/yrucd.png
+           url: https://www.yrucd.com/
+           description: 优秀设计资源的分享网站
+         - title: Designmodo
+           logo: images/logos/Designmodo.png
+           url: https://designmodo.com/
+           description: Web Design Blog and Shop
+         - title: 稀土区
+           logo: images/logos/xituqu.png
+           url: https://xituqu.com/
+           description: 优质设计开发资源分享
+         - title: ui8
+           logo: images/logos/ui8.png
+           url: https://ui8.net/
+           description: UI Kits, Wireframe Kits, Templates, Icons and More
+         - title: uplabs
+           logo: images/logos/uplabs.png
+           url: https://www.uplabs.com/
+           description: Daily resources for product designers & developers
+         - title: UIkit.me
+           logo: images/logos/uikitme.png
+           url: http://www.uikit.me/
+           description: 最便捷新鲜的uikit资源下载网站
+         - title: Fribbble
+           logo: images/logos/Fribbble.png
+           url: http://www.fribbble.com/
+           description: Free PSD files and other free design resources by Dribbblers.
+         - title: PrincipleRepo
+           logo: images/logos/PrincipleRepo.png
+           url: http://principlerepo.com/
+           description: Free, High Quality Principle Resources
       
     - term: 字体资源
       links:
@@ -951,41 +840,6 @@
           url: http://www.abstractfonts.com/
           logo: images/logos/abstractfonts.png
           description: Abstract Fonts (13,866 free fonts)
-      
-    - term: Mockup
-      links:
-        - title: MockupZone
-          url: https://mockup.zone/
-          logo: images/logos/MockupZone.png
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-        - title: Dunnnk
-          url: http://dunnnk.com/
-          logo: images/logos/Dunnnk.png
-          description:  Generate Product Mockups For Free
-        - title: Graphberry
-          url: http://www.graphberry.com/
-          logo: images/logos/graphberry.png
-          description: Free design resources, Mockups, PSD web templates, Icons
-        - title: Threed
-          url: http://threed.io/
-          logo: images/logos/threed.png
-          description: Generate 3D Mockups right in your Browser
-        - title: Mockup World
-          url: https://free.lstore.graphics/
-          logo: images/logos/mockupworld.png
-          description: The best free Mockups from the Web
-        - title: Lstore
-          url: https://free.lstore.graphics/
-          logo: images/logos/lstore.png
-          description: Exclusive mindblowing freebies for designers and developers
-        - title: pixeden
-          url: https://www.pixeden.com/
-          logo: images/logos/pixeden.png
-          description: free web resources and graphic design templates.
-        - title: For Graphic TM
-          url: http://forgraphictm.com/
-          logo: images/logos/forgraphictm.png
-          description: High Quality PSD Mockups for Graphic Designers.
       
     - term: 摄影图库
       links:
