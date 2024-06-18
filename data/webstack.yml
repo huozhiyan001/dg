@@ -79,7 +79,7 @@
 
 
 - taxonomy: 综合资源
-  icon: fa-regular fa-lightbulb
+  icon: fa-thumbs-up
   list: 
     - term: 域名网站
       links:
@@ -286,7 +286,7 @@
         
           
 - taxonomy: 软件资源
-  icon: fa-regular fa-lightbulb
+  icon: fa-thumbs-up
   list: 
     - term: 浏览器插件
       links:
