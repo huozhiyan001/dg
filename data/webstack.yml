@@ -214,7 +214,7 @@
           url: https://sms-activate.org/cn/getNumber
           description: 
 
-    - term: 手机频道
+    - term: Esim手机频道
       links:
         - title: 5ber手机卡
           logo: 
@@ -227,6 +227,10 @@
         - title: 抓包giffgaff eSIM 写入5ber
           logo: 
           url: https://www.charlesproxy.com/latest-release/download.do
+          description: 
+          title: Google Voice
+          logo: 
+          url: https://voice.google.com/u/0/about
           description: 
 
     - term: 大型网站
