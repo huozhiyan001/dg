@@ -203,101 +203,103 @@
           description: 
 
 
-- taxonomy: 软件
-  icon: fa-star
-  links: 
-    - title: 油猴子
-      logo: 
-      url: https://greasyfork.org/zh-CN
-      description: 
-    - title: 纸飞机
-      logo: 
-      url: https://telegram.org/
-      description: 
-    - title: Telegram-X
-      logo: 
-      url: https://telegram-x.en.download.it/android/download
-      description: 
-    - title: 吾爱破解论坛
-      logo: 
-      url: https://www.52pojie.cn
-      description: 
-    - title: 卡饭论坛
-      logo: 
-      url: http://bbs.kafan.cn
-      description: 
-    - title: 永乐汉化论坛
-      logo: 
-      url: http://www.ylhh.net/forum.php
-      description: 
-    - title: 乐享网(安卓软件)
-      logo: 
-      url: https://www.lxapk.com
-      description: 
-    - title: 亿破姐
-      logo: 
-      url: https://www.ypojie.com
-      description: 
-    - title: 致美化
-      logo: 
-      url: https://zhutix.com/
-      description: 
-    - title: KimiChat官网
-      logo: 
-      url: https://kimi.moonshot.cn
-      description: 
-    - title: 423Down(安卓软件)
-      logo: 
-      url: https://www.423down.com
-      description: 
-    - title: 小鱼儿yr系统
-      logo: 
-      url: https://www.yrxitong.com
-      description: 
-    - title: th_sjy汉化分享博客
-      logo: 
-      url: http://www.th-sjy.com
-      description: 
-    - title: 悦宇玩机
-      logo: 
-      url: https://heihei.run
-      description: 
-    - title: 雪域工作室
-      logo: 
-      url: https://www.xueyu521.cn
-      description: 
-    - title: 繁星摄影
-      logo: 
-      url: https://52fanxing.com
-      description: 
-    - title: 设计师
-      logo: 
-      url: https://www.yuque.com/sssc/sucai/jc
-      description: 
-    - title: 趣猫资源
-      logo: 
-      url: https://www.mgzyfx.com
-      description: 
-    - title: 爱工作
-      logo: 
-      url: http://anifx8.com
-      description: 
-    - title: 搜片
-      logo: 
-      url: https://soupian.one
-      description: 
-    - title: 根据图片猜出地址
-      logo: 
-      url: https://geospy.ai/
-      description: 
-    - title: X
-      logo: 
-      url: https://x.com/?lang=en
-      description: 
-    - title: 抓包giffgaff eSIM 写入5ber
-      logo: 
-      url: https://www.charlesproxy.com/latest-release/download.do
-      description:
+- taxonomy: 软件资源
+  icon: fa-regular fa-lightbulb
+  list: 
+    - term: 浏览器插件
+      links:
+        - title: 油猴子
+          logo: 
+          url: https://greasyfork.org/zh-CN
+          description: 
+        - title: 纸飞机
+          logo: 
+          url: https://telegram.org/
+          description: 
+        - title: Telegram-X
+          logo: 
+          url: https://telegram-x.en.download.it/android/download
+          description: 
+        - title: 吾爱破解论坛
+          logo: 
+          url: https://www.52pojie.cn
+          description: 
+        - title: 卡饭论坛
+          logo: 
+          url: http://bbs.kafan.cn
+          description: 
+        - title: 永乐汉化论坛
+          logo: 
+          url: http://www.ylhh.net/forum.php
+          description: 
+        - title: 乐享网(安卓软件)
+          logo: 
+          url: https://www.lxapk.com
+          description: 
+        - title: 亿破姐
+          logo: 
+          url: https://www.ypojie.com
+          description: 
+        - title: 致美化
+          logo: 
+          url: https://zhutix.com/
+          description: 
+        - title: KimiChat官网
+          logo: 
+          url: https://kimi.moonshot.cn
+          description: 
+        - title: 423Down(安卓软件)
+          logo: 
+          url: https://www.423down.com
+          description: 
+        - title: 小鱼儿yr系统
+          logo: 
+          url: https://www.yrxitong.com
+          description: 
+        - title: th_sjy汉化分享博客
+          logo: 
+          url: http://www.th-sjy.com
+          description: 
+        - title: 悦宇玩机
+          logo: 
+          url: https://heihei.run
+          description: 
+        - title: 雪域工作室
+          logo: 
+          url: https://www.xueyu521.cn
+          description: 
+        - title: 繁星摄影
+          logo: 
+          url: https://52fanxing.com
+          description: 
+        - title: 设计师
+          logo: 
+          url: https://www.yuque.com/sssc/sucai/jc
+          description: 
+        - title: 趣猫资源
+          logo: 
+          url: https://www.mgzyfx.com
+          description: 
+        - title: 爱工作
+          logo: 
+          url: http://anifx8.com
+          description: 
+        - title: 搜片
+          logo: 
+          url: https://soupian.one
+          description: 
+        - title: 根据图片猜出地址
+          logo: 
+          url: https://geospy.ai/
+          description: 
+        - title: X
+          logo: 
+          url: https://x.com/?lang=en
+          description: 
+        - title: 抓包giffgaff eSIM 写入5ber
+          logo: 
+          url: https://www.charlesproxy.com/latest-release/download.do
+          description:
 
     - term: 源代码
       links:
