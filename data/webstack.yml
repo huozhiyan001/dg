@@ -120,7 +120,7 @@
           url: https://ccp.cloudaccess.net/clientarea.php
           description: 
 
-    - term: 网络查询
+    - term: 网络IP查询
       links:
         - title: 查询自己IP
           logo: 
@@ -613,7 +613,7 @@
           url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo
           description: 
 
-    - term: 学习资源
+    - term: 学习材料
       links:
         - title: 千图网
           logo: 
