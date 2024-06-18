@@ -721,10 +721,6 @@
            url: https://1024tools.com/uuid/
            description: UUID在线生成
       
-  
-- taxonomy: 素材资源01
-  icon: fa-thumbs-up
-  list: 
     - term: 图标素材
       links:
         - title: Iconfinder
@@ -1091,7 +1087,7 @@
           description: 中国领先的PPT模板共享平台
 
 
-- taxonomy: 素材资源02
+- taxonomy: 素材资源
   icon: fa-thumbs-up
   list: 
     - term: 图形创意
