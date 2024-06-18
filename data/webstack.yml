@@ -15,10 +15,6 @@
       logo:  
       url: https://icon-sets.iconify.design/?query=google
       description: ico图标网站
-    - title: 本人另外标签导航网站
-      logo:  
-      url: https://dh.kk89jf.sbs/
-      description: 本人另外标签导航网站
     - title: github官网
       logo:  
       url: https://github.com/dashboard
@@ -26,6 +22,18 @@
     - title: ChatGpt官网
       logo:  
       url: https://chatgpt.com/?oai-dm=1
+      description: 
+    - title: 自己做的ChatGpt4.0
+      logo:  
+      url: https://gq86p6-3000.csb.app/
+      description: 
+    - title: 自己ChatGPT4.0可搭建模型
+      logo:  
+      url: https://www.coze.com/space/7357719953564975110/bot/7357720354968092678
+      description: 
+    - title: 万知
+      logo:  
+      url: https://www.wanzhi.com/home
       description: 
     - title: 假奈非电影网站
       logo:  
@@ -38,6 +46,10 @@
     - title: 汇率
       logo:  
       url: https://www.google.com/search?q=%E6%B1%87%E7%8E%87&sca_esv=b41f59bb11203993&sca_upv=1&sxsrf=ADLYWILazxXgdpTGMJJTQZw3huF-0QlhTg%3A1718269264407&ei=ULVqZqnAGK7A0PEPmLeU4As&ved=0ahUKEwipqIjpm9iGAxUuIDQIHZgbBbwQ4dUDCBA&uact=5&oq=%E6%B1%87%E7%8E%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiBuaxh-eOhzIKECMYgAQYJxiKBTIKECMYgAQYJxiKBTIFEAAYgAQyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBRAAGIAEMgoQABiABBhDGIoFMgUQABiABDIKEAAYgAQYQxiKBTIFEAAYgARIqQlQlQVYlQVwAXgBkAEAmAHPAaABzwGqAQMyLTG4AQPIAQD4AQGYAgKgAtcBwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMC4xoAfEBQ&sclient=gws-wiz-serp
+      description: 
+    - title: 导航网-简化版
+      logo:  
+      url: https://dh.kk89jf.sbs/
       description: 
 
 
@@ -167,11 +179,19 @@
           url: https://proxy6.net/en/
           description:
 
-    - term: 网购平台
+    - term: 信用卡平台
       links:
         - title: Fomecard虚拟信用卡
           logo: 
           url: https://tsy.fomecard.top
+          description: 
+        - title: 飞扬卡平台
+          logo: 
+          url: https://sh5.live/vc_web/main.html#/home
+          description: 
+        - title: 福美信用卡
+          logo: 
+          url: https://gpt.fomepay.com/
           description: 
         - title: 币安
           logo: 
@@ -193,16 +213,78 @@
           logo:  
           url: https://sms-activate.org/cn/getNumber
           description: 
+
+    - term: 手机频道
+      links:
         - title: 5ber手机卡
-          logo:  
+          logo: 
           url: https://esim.5ber.com/?language=zh-CN
           description: 
         - title: esimplus爱沙尼亚手机卡
-          logo:  
+          logo: 
           url: https://esimplus.me/mobile-data
           description: 
+        - title: 抓包giffgaff eSIM 写入5ber
+          logo: 
+          url: https://www.charlesproxy.com/latest-release/download.do
+          description: 
 
-
+    - term: 大型网站
+      links:
+        - title: 淘宝网
+          logo: 
+          url: https://www.taobao.com
+          description: 
+        - title: 支付宝
+          logo: 
+          url: https://www.alipay.com
+          description: 
+        - title: 京东商城
+          logo: 
+          url: https://www.jd.com
+          description: 
+        - title: 哔哩哔哩
+          logo: 
+          url: https://www.bilibili.com
+          description: 
+        - title: 江苏移动
+          logo: 
+          url: http://service.js.10086.cn/#home
+          description: 
+        - title: 江苏电信
+          logo: 
+          url: http://js.189.cn
+          description: 
+        - title: 远特-信时空
+          logo: 
+          url: https://www.m10027.com/index.html
+          description: 
+        - title: 阿里旺旺下载
+          logo: 
+          url: https://wangwang.taobao.com/?spm=a311a.7996332.0.0.4cb43080CUgAzh
+          description: 
+        - title: ICP备室查询
+          logo: 
+          url: http://icp.chinaz.com
+          description: 
+        - title: 公积金查询
+          logo: 
+          url: https://m12333.cn/platform/yy.html
+          description: 
+        - title: 腾讯视频
+          logo: 
+          url: https://v.qq.com/
+          description: 
+        - title: 爱奇艺
+          logo: 
+          url: https://www.iqiyi.com/
+          description: 
+        - title: 优酷
+          logo: 
+          url: https://youku.com/
+          description: 
+        
+          
 - taxonomy: 软件资源
   icon: fa-regular fa-lightbulb
   list: 
@@ -300,6 +382,42 @@
           logo: 
           url: https://www.charlesproxy.com/latest-release/download.do
           description:
+        - title: 悦宇玩机
+          logo: 
+          url: https://heihei.run
+          description:
+        - title: 百度云网盘
+          logo: 
+          url: http://pan.baidu.com/disk/home
+          description:
+        - title: GPS导航
+          logo: 
+          url: http://bbs.gpsuu.com/index.php
+          description:
+        - title: 360安全卫士
+          logo: 
+          url: http://www.360.cn
+          description:
+        - title: 土豆MC论坛
+          logo: 
+          url: https://www.tudoumc.com
+          description:
+        - title: 系统之家论坛
+          logo: 
+          url: http://www.cncye.com/forum.php
+          description:
+        - title: 雪域工作室
+          logo: 
+          url: https://www.xueyu521.cn
+          description:
+        - title: 
+          logo: 
+          url: 
+          description:
+        - title: 
+          logo: 
+          url: 
+          description:
 
     - term: 源代码
       links:
@@ -358,6 +476,10 @@
           logo:  
           url: https://www.988yx.top
           description: 
+        - title: 九游手机游戏
+          logo:  
+          url: http://www.9game.cn
+          description: 
       
     - term: 视频讲解
       links:
@@ -378,7 +500,7 @@
           url: https://www.youtube.com/watch?v=L46M6Xyahm0
           description: 
 
-    - term: 魔方工具
+    - term: 魔法工具
       links:
         - title: ClashMeta安卓端
           logo: 
@@ -401,8 +523,47 @@
           url: https://github.com/GFW-knocker/MahsaNG
           description:
 
+    - term: 机场节点
+      links:
+        - title: 魔戒
+          logo: 
+          url: https://mojie.info/#/login
+          description: 
+        - title: 赔钱机场
+          logo: 
+          url: https://pqjc.site/#/login
+          description: 
+        - title: 牛逼机场
+          logo: 
+          url: https://5.6bcloud.top/#/login
+          description: 
+        - title: 顶级机场
+          logo: 
+          url: https://xn--mes358a9urctx.com/#/dashboard
+          description: 
+        - title: XSUS
+          logo: 
+          url: https://xsus.wiki/#/stage/dashboard
+          description: 
+        - title: 菜鸟机场
+          logo: 
+          url: https://cainiao171.top/#/dashboard
+          description: 
+        - title: Best VPN!
+          logo: 
+          url: https://panel.vp1.one/#/plan
+          description: 
+        - title: Cloud Port
+          logo: 
+          url: https://cloud-port.xyz/#/dashboard
+          description: 
+
     - term: 浏览器插件
       links:
+        - title: 油猴子脚本
+          logo: 
+          url: https://greasyfork.org/zh-CN
+          description: 
         - title: 谷歌后台
           logo: 
           url: chrome://flags/
@@ -452,6 +613,42 @@
           url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo
           description: 
 
+    - term: 学习资源
+      links:
+        - title: 千图网
+          logo: 
+          url: https://www.58pic.com
+          description: 
+        - title: 在线抠图
+          logo: 
+          url: https://www.51mo.com/cutout
+          description: 
+        - title: 配色器
+          logo: 
+          url: https://mycolor.space
+          description: 
+        - title: 繁星摄影
+          logo: 
+          url: https://52fanxing.com
+          description: 
+        - title: 幻云PPY办公资源
+          logo: 
+          url: https://mp.weixin.qq.com/s/QudagotLf0FfqxdIuFKdfw
+          description: 
+        - title: QiuQuan'sBlog软件分享
+          logo: 
+          url: http://www.qiuquan.cc
+          description: 
+        - title: 设计师
+          logo: 
+          url: https://www.yuque.com/sssc/sucai/jc
+          description: 
+        - title: 汉字转拼音
+          logo: 
+          url: https://ctool.dev
+          description: 
+
+          
     - term: 导航网站
       links:
         - title: 导航网站-精简版
@@ -472,7 +669,7 @@
           description: 
 
 
-- taxonomy: 其他采集
+- taxonomy: 别人资源
   icon: fa-regular fa-lightbulb
   list: 
     - term: 其他产品
