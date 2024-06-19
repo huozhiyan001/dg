@@ -154,6 +154,10 @@
           logo: 
           url: https://www.google.com/search?sca_esv=986cfd32cb66a37f&sca_upv=1&sxsrf=ADLYWIJL6fM0FAiIsbJtF83Btw5O7W2aVA:1717118822687&q=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81&source=lnms&sa=X&ved=2ahUKEwigldqL3raGAxU2M0QIHQrLBHUQ0pQJegQIDBAB&biw=1872&bih=1004&dpr=1&udm=2#vhid=WndVI3E4vqLBzM&vssid=mosaic
           description: 
+        - title: 美国免税州地址生成器--俄勒冈州
+          logo: 
+          url: https://www.meiguodizhi.com/usa-address/oregon
+          description: 
         - title: 优选ip库
           logo:  
           url: https://345673.xyz/#
@@ -214,7 +218,7 @@
           url: https://sms-activate.org/cn/getNumber
           description: 
 
-    - term: Esim手机频道
+    - term: 手机Esim频道
       links:
         - title: 5ber手机卡
           logo: 
@@ -228,9 +232,17 @@
           logo: 
           url: https://www.charlesproxy.com/latest-release/download.do
           description: 
-          title: Google Voice
+        - title: Google Voice
           logo: 
           url: https://voice.google.com/u/0/about
+          description: 
+        - title: 美国苹果Apple ID官网
+          logo: 
+          url: https://appleid.apple.com/
+          description: 
+        - title: Esim抓包工具--下载 Postman | 免费开始使用
+          logo: 
+          url: https://www.postman.com/downloads/
           description: 
 
     - term: 大型网站
