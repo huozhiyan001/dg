@@ -160,7 +160,7 @@
         - title: fofa单个国家IP查询
           logo: 
           url: https://fofa.info/
-          description: 
+          description: server=="cloudflare" && port=="80" && header="Forbidden" && country=="CN"
         - title: UUID生成网站
           logo:  
           url: https://www.uuidgenerator.net/
