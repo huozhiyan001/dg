@@ -497,6 +497,14 @@
           logo: 
           url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo
           description: 
+        - title: Dark Reader背景插件01
+          logo: 
+          url: https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=zh-CN&utm_source=ext_sidebar
+          description: 
+        - title: Website Theme背景插件02
+          logo: 
+          url: https://chromewebstore.google.com/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=zh-CN&utm_source=ext_sidebar
+          description: 
 
     - term: 源代码
       links:
