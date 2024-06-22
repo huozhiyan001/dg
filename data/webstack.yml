@@ -51,6 +51,10 @@
       logo:  
       url: https://tv.hbys.top/
       description: 
+    - title: 音视频源码
+      logo:  
+      url: https://github.com/imputnet/cobalt
+      description: 
 
 
 - taxonomy: 邮箱
@@ -189,6 +193,14 @@
         - title: proxy6-VPS官网
           logo:  
           url: https://proxy6.net/en/
+          description:
+        - title: fofa单个国家IP
+          logo:  
+          url: https://fofa.info/
+          description:
+        - title: 域名反向查找IP
+          logo:  
+          url: https://who.is/
           description:
 
     - term: 信用卡平台
