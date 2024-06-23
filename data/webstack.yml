@@ -51,9 +51,9 @@
       logo:  
       url: https://tv.hbys.top/
       description: 
-    - title: 音视频源码
+    - title: 视频下载
       logo:  
-      url: https://github.com/imputnet/cobalt
+      url: https://cobalt.tools/
       description: 
 
 
@@ -551,6 +551,10 @@
         - title: 白哥软件库
           logo:  
           url: https://docs.bestip.one/
+          description: 
+        - title: 音视频源码
+          logo:  
+          url: https://github.com/imputnet/cobalt
           description: 
 
     - term: 魔法工具
