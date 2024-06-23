@@ -27,6 +27,10 @@
       logo:  
       url: https://www.wanzhi.com/home
       description: 
+    - title: claude--AI
+      logo:  
+      url: https://claude.ai/chats
+      description: 
     - title: ico图标
       logo:  
       url: https://icon-sets.iconify.design/?query=google
