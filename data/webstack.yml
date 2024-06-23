@@ -646,25 +646,6 @@
           url: https://ctool.dev
           description: 
 
-    - term: 导航网站
-      links:
-        - title: 导航网站-精简版
-          logo: 
-          url: https://dh.kk89jf.sbs
-          description: 
-        - title: 导航网站-完整版
-          logo: 
-          url: https://dh.958878.xyz
-          description: 
-        - title: 工具达人导航
-          logo:  
-          url: https://toolsdar.com
-          description: 
-        - title: 小众技术导航
-          logo:  
-          url: https://www.xiaozhongjishu.com/
-          description: 
-
 
 - taxonomy: 游戏频道
   icon: fa-thumbs-up
@@ -731,4 +712,27 @@
           url: https://www.youtube.com/watch?v=xqKYRoapC20
           description: 
 
+    - term: 导航网站
+      links:
+        - title: 导航网站-精简版01
+          logo: 
+          url: https://wy.958878.xyz/
+          description: 
+        - title: 导航网站-完整版
+          logo: 
+          url: https://dh.958878.xyz
+          description: 
+        - title: 导航网站-精简版02(备用网站)
+          logo: 
+          url: https://dh.kk89jf.sbs/
+          description: 
+        - title: 工具达人导航
+          logo:  
+          url: https://toolsdar.com
+          description: 
+        - title: 小众技术导航
+          logo:  
+          url: https://www.xiaozhongjishu.com/
+          description: 
+          
 ---
