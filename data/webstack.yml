@@ -462,7 +462,7 @@
           logo: 
           url: https://youku.com/
           description: 
-
+  
     - term: 浏览器插件
       links:
         - title: 油猴子脚本
@@ -526,7 +526,7 @@
           url: https://chromewebstore.google.com/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=zh-CN&utm_source=ext_sidebar
           description: 
 
-    - term: 源代码
+    - term: 源代码开源
       links:
         - title: github官网
           logo:  
@@ -563,6 +563,10 @@
         - title: 音视频源码
           logo:  
           url: https://github.com/imputnet/cobalt
+          description: 
+        - title: ayugram电报
+          logo: 
+          url: https://github.com/AyuGram/AyuGramDesktop/releases/tag/v5.1.2
           description: 
 
     - term: 魔法工具
