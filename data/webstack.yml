@@ -211,7 +211,7 @@
           url: https://who.is/
           description:
 
-    - term: 金融平台
+    - term: 金融商城平台
       links:
         - title: Fomecard虚拟信用卡
           logo: 
@@ -221,7 +221,7 @@
           logo: 
           url: https://sh5.live/vc_web/main.html#/home
           description: 
-        - title: 福美信用卡
+        - title: fomepay虚拟信用卡
           logo: 
           url: https://gpt.fomepay.com/
           description: 
