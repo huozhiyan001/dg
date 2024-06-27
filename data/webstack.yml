@@ -297,7 +297,7 @@
           description: 
           
           
-- taxonomy: 软件资源
+- taxonomy: 资源分享
   icon: fa-thumbs-up
   list: 
     - term: 各大官方网站
@@ -474,6 +474,14 @@
           logo: 
           url: https://youku.com/
           description: 
+        - title: 批量卸载
+          logo:  
+          url: https://www.hibitsoft.ir/Uninstaller.html
+          description: 
+        - title: 屏幕批量复制
+          logo:  
+          url: https://ditto-cp.sourceforge.io/
+          description: 
   
     - term: 浏览器插件
       links:
@@ -588,7 +596,15 @@
           logo: 
           url: https://github.com/AyuGram/AyuGramDesktop/releases/tag/v5.1.2
           description: 
-
+        - title: OCR 文字识别工具
+          logo:  
+          url: https://github.com/hiroi-sora/Umi-OCR
+          description: 
+        - title: 多用户屏幕共享
+          logo:  
+          url: https://github.com/screego/server?tab=readme-ov-file
+          description: 
+            
     - term: 魔法工具
       links:
         - title: ClashMeta安卓端
