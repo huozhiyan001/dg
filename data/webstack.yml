@@ -211,7 +211,7 @@
           url: https://who.is/
           description:
 
-    - term: 金融商城平台
+    - term: 金融中心
       links:
         - title: Fomecard虚拟信用卡
           logo: 
@@ -244,6 +244,18 @@
         - title: 接码平台
           logo:  
           url: https://sms-activate.org/cn/getNumber
+          description: 
+         - title: 查询交易链接去向
+          logo:  
+          url: https://bscscan.com/
+          description: 
+        - title: coingecko查询交易所排行榜
+          logo:  
+          url: https://www.coingecko.com/
+          description: 
+        - title: coinmarketcap查询交易所排行榜
+          logo:  
+          url: https://coinmarketcap.com/
           description: 
 
     - term: 手机Esim频道
