@@ -501,10 +501,10 @@
           logo: 
           url: https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=zh-CN&utm_source=ext_sidebar
           description: 
-        - title: 超级复制SuperCopy
+        - title: 超级复制Toggle JavaScript
           logo: 
-          url: https://microsoftedge.microsoft.com/addons/detail/supercopy-%E8%B6%85%E7%BA%A7%E5%A4%8D%E5%88%B6/ajngnicokpggciejadpplncpajocoapm
-          description: 
+          url: https://chromewebstore.google.com/detail/toggle-javascript/cidlcjdalomndpeagkjpnefhljffbnlo?hl=zh-CN&utm_source=ext_sidebar
+          description: 不用把他关掉, 不然会卡
         - title: 购物党自动比价工具
           logo: 
           url: https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah?hl=zh-CN
@@ -524,6 +524,14 @@
         - title: Website Theme背景插件02
           logo: 
           url: https://chromewebstore.google.com/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=zh-CN&utm_source=ext_sidebar
+          description: 
+        - title: 分屏Tab Resize - split screen layouts
+          logo: 
+          url: https://chromewebstore.google.com/detail/bkpenclhmiealbebdopglffmfdiilejc?hl=zh-CN&utm_source=ext_sidebar
+          description: 
+        - title: 抠图Magic Copy
+          logo: 
+          url: https://chromewebstore.google.com/detail/magic-copy/nnifclicibdhgakebbnbfmomniihfmkg
           description: 
 
     - term: 源代码开源
