@@ -211,7 +211,7 @@
           url: https://who.is/
           description:
 
-    - term: 金融商城
+    - term: 金融中心
       links:
         - title: Fomecard虚拟信用卡
           logo: 
@@ -241,7 +241,7 @@
           logo: 
           url: https://www.feixiaohao.com/
           description: 
-         - title: 查询交易链接去向
+        - title: 查询交易链接去向
           logo:  
           url: https://bscscan.com/
           description: 
