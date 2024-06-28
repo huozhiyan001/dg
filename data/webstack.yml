@@ -604,6 +604,10 @@
           logo:  
           url: https://github.com/screego/server?tab=readme-ov-file
           description: 
+        - title: BPB节点面板
+          logo:  
+          url: https://github.com/cloudflaregithub0/BPB-Worker-Panel
+          description: 
             
     - term: 魔法工具
       links:
