@@ -115,6 +115,10 @@
           logo: 
           url: https://www.vultr.com/
           description: 
+        - title: FinalShell SSH工具
+          logo: 
+          url: https://www.hostbuf.com/
+          description: 
         - title: dynv6二级域名
           logo: 
           url: https://dynv6.com/
