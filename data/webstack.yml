@@ -97,7 +97,7 @@
 - taxonomy: 综合资源
   icon: fa-thumbs-up
   list: 
-    - term: 域名网站
+    - term: 域名+VPS资源分享
       links:
         - title: 每年0.67美元顶级域名
           logo: 
@@ -110,6 +110,10 @@
         - title: 第三选择域名
           logo:  
           url: https://www.name.com/zh-cn/
+          description: 
+        - title: vultr-VPS官网
+          logo: 
+          url: https://www.vultr.com/
           description: 
         - title: dynv6二级域名
           logo: 
@@ -213,7 +217,7 @@
           title: 查询IP是否被阻断
           logo:  
           url: https://ping.pe/
-          description:格式为IP冒号+端口
+          description: 格式为IP冒号+端口
         - title: 域名反向查找IP
           logo:  
           url: https://who.is/
