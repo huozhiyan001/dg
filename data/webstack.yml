@@ -63,6 +63,10 @@
       logo:  
       url: https://www.apponfly.com/
       description: 
+    - title: 高德地图
+      logo:  
+      url: https://ditu.amap.com/
+      description: 
 
 
 - taxonomy: 邮箱
