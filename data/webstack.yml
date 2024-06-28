@@ -210,6 +210,10 @@
           logo:  
           url: https://fofa.info/
           description:
+          title: 查询IP是否被阻断
+          logo:  
+          url: https://ping.pe/
+          description:格式为IP冒号+端口
         - title: 域名反向查找IP
           logo:  
           url: https://who.is/
