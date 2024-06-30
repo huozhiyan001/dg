@@ -651,6 +651,14 @@
             
     - term: 魔法工具
       links:
+        - title: 1.1.1.1官网
+          logo: 
+          url: https://one.one.one.one/
+          description:
+        - title: wireguard全平台客户端
+          logo: 
+          url: https://www.wireguard.com/install/
+          description:
         - title: ClashMeta安卓端
           logo: 
           url: https://github.com/MetaCubeX/ClashMetaForAndroid
