@@ -230,6 +230,10 @@
           logo:  
           url: https://who.is/
           description:
+        - title: 节点IP地址获取
+          logo:  
+          url: https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
+          description:
 
     - term: 金融中心
       links:
@@ -794,6 +798,10 @@
         - title: 谷歌浏览器背景颜色设置黑色
           logo: 
           url: https://www.youtube.com/watch?v=xqKYRoapC20
+          description: 
+        - title: BPB面板搭建节点教程
+          logo: 
+          url: https://www.youtube.com/watch?v=jD7EHXpDa30
           description: 
 
     - term: 导航网站
