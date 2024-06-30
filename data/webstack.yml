@@ -242,9 +242,13 @@
           logo:  
           url: https://who.is/
           description:
-        - title: 节点IP地址获取
+        - title: 节点获取IP-01
           logo:  
           url: https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
+          description:
+        - title: 节点获取IP-02
+          logo:  
+          url: https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
           description:
 
     - term: 金融中心
