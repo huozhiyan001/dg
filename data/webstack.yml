@@ -344,7 +344,7 @@
 - taxonomy: 资源分享
   icon: fa-thumbs-up
   list: 
-    - term: 各大官方网站
+    - term: 各大网站资源
       links:
         - title: 油猴子
           logo: 
@@ -525,6 +525,10 @@
         - title: 屏幕批量复制
           logo:  
           url: https://ditto-cp.sourceforge.io/
+          description: 
+        - title: 向日葵官网
+          logo:  
+          url: https://sunlogin.oray.com/download?categ=personal
           description: 
   
     - term: 浏览器插件
