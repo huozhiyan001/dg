@@ -15,6 +15,10 @@
       logo:  
       url: https://chatgpt.com/?oai-dm=1
       description: 
+    - title: 接码平台
+      logo:  
+      url: https://sms-activate.org/cn/getNumber
+      description:
     - title: 自己做的ChatGpt4.0
       logo:  
       url: https://gq86p6-3000.csb.app/
@@ -202,13 +206,17 @@
           logo: 
           url: https://shenfendaquan.com/
           description: 
+        - title: 美国免税州地址生成器--俄勒冈州
+          logo: 
+          url: https://www.meiguodizhi.com/usa-address/oregon
+          description: 
         - title: 美国户照KYV
           logo: 
           url: https://www.google.com/search?sca_esv=986cfd32cb66a37f&sca_upv=1&sxsrf=ADLYWIJL6fM0FAiIsbJtF83Btw5O7W2aVA:1717118822687&q=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81&source=lnms&sa=X&ved=2ahUKEwigldqL3raGAxU2M0QIHQrLBHUQ0pQJegQIDBAB&biw=1872&bih=1004&dpr=1&udm=2#vhid=WndVI3E4vqLBzM&vssid=mosaic
           description: 
-        - title: 美国免税州地址生成器--俄勒冈州
+        - title: 大陆地址生成器
           logo: 
-          url: https://www.meiguodizhi.com/usa-address/oregon
+          url: https://www.meiguodizhi.com/cn-address
           description: 
         - title: 优选ip库
           logo:  
@@ -301,11 +309,7 @@
           logo:  
           url: https://coinmarketcap.com/
           description: 
-        - title: 接码平台
-          logo:  
-          url: https://sms-activate.org/cn/getNumber
-          description:
-
+        
     - term: 手机Esim频道
       links:
         - title: 5ber手机卡
