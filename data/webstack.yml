@@ -614,7 +614,7 @@
           url: https://chromewebstore.google.com/detail/magic-copy/nnifclicibdhgakebbnbfmomniihfmkg
           description: 
 
-    - term: 源代码开源
+    - term: 源代码
       links:
         - title: github官网
           logo:  
@@ -850,6 +850,10 @@
         - title: BPB面板搭建节点教程
           logo: 
           url: https://www.youtube.com/watch?v=jD7EHXpDa30
+          description: 
+        - title: 搭建3K大佬节点
+          logo: 
+          url: https://www.youtube.com/watch?v=Y_YvewZwZg0
           description: 
 
     - term: 导航网站
