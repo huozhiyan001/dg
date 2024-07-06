@@ -206,6 +206,10 @@
           logo: 
           url: https://fast.com/
           description: 
+        - title: 测IP地址是在什么地区
+          logo: 
+          url: https://reallyfreegeoip.org/bulk#google_vignette
+          description: 
         - title: fofa单个国家IP查询
           logo: 
           url: https://fofa.info/
@@ -675,6 +679,10 @@
         - title: BPB面板搭建节点
           logo:  
           url: https://github.com/bia-pain-bache/BPB-Worker-Panel
+          description: 
+        - title: 2.2.5IP测速源代码
+          logo:  
+          url: https://github.com/XIU2/CloudflareSpeedTest
           description: 
             
     - term: 魔法工具
