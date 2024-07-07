@@ -282,6 +282,14 @@
           logo:  
           url: https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
           description:
+        - title: 节点工具网址1
+          logo:  
+          url: https://v2rayse.com/
+          description:
+        - title: 节点工具网址2
+          logo:  
+          url: https://v1.v2rayse.com/
+          description:
 
     - term: 金融中心
       links:
