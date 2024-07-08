@@ -731,6 +731,30 @@
           logo: 
           url: https://github.com/2dust/v2rayNG
           description:
+        - title: Hiddify电脑端
+          logo: 
+          url: https://github.com/hiddify/hiddify-next/releases
+          description:
+        - title: Hiddify安卓端
+          logo: 
+          url: https://github.com/hiddify/hiddify-next/releases
+          description:
+        - title: Nekoray电脑端
+          logo: 
+          url: https://github.com/MatsuriDayo/nekoray/releases
+          description:
+        - title: NekoBox安卓的
+          logo: 
+          url: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+          description:
+        - title: SingBox电脑端
+          logo: 
+          url: https://github.com/GUI-for-Cores/GUI.for.SingBox
+          description:
+        - title: SingBox安卓端
+          logo: 
+          url: https://github.com/SagerNet/sing-box
+          description:
         - title: 伊朗大神MahsaNG安卓端
           logo: 
           url: https://github.com/GFW-knocker/MahsaNG
