@@ -23,6 +23,10 @@
       logo:  
       url: https://www.google.com/maps/@41.8304612,-87.6144264,6z?entry=ttu
       description:
+    - title: 世界时间
+      logo: 
+      url: https://cn.piliapp.com/time-now/
+      description: 
     - title: ChatGpt官网
       logo:  
       url: https://chatgpt.com/?oai-dm=1
