@@ -333,6 +333,10 @@
           logo: 
           url: https://www.feixiaohao.com/
           description: 
+        - title: 第三方交易所查询
+          logo: 
+          url: https://defillama.com/cexs
+          description: 
         - title: 查询交易链接去向
           logo:  
           url: https://bscscan.com/
