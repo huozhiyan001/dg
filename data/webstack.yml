@@ -716,6 +716,10 @@
           logo:  
           url: https://github.com/XIU2/CloudflareSpeedTest
           description: 
+        - title: IDM激活开源地址
+          logo:  
+          url: https://github.com/WindowsAddict/IDM-Activation-Script/releases
+          description: 
             
     - term: 魔法工具
       links:
