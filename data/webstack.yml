@@ -724,6 +724,10 @@
           logo:  
           url: https://github.com/WindowsAddict/IDM-Activation-Script/releases
           description: 
+        - title: Telegram-X
+          logo:  
+          url: https://github.com/TGX-Android/Telegram-X
+          description: 
             
     - term: 魔法工具
       links:
