@@ -381,7 +381,7 @@
           url: https://www.postman.com/downloads/
           description: 
 
-    - term: 博客网站
+    - term: 论坛-博客资源
       links:
         - title: 博客
           logo:  
@@ -390,6 +390,10 @@
         - title: 爱分享的小企鹅
           logo: 
           url: https://lovetoshare.top/archives/33.html
+          description: 
+        - title: 动态壁纸软件Wallpaper.Engine.v2.5.7
+          logo: 
+          url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1938187&highlight=%B6%AF%CC%AC
           description: 
           
           
