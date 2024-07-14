@@ -305,6 +305,10 @@
 
     - term: 金融中心
       links:
+        - title: GQL Quantify智能量化平台
+          logo:  
+          url: https://www.gql18.com/pc.html
+          description: 
         - title: Fomecard虚拟信用卡
           logo: 
           url: https://tsy.fomecard.top
@@ -353,9 +357,9 @@
           logo:  
           url: https://coinmarketcap.com/
           description: 
-        - title: GQL Quantify智能量化平台
+        - title: Telegram会员充值
           logo:  
-          url: https://www.gql18.com/pc.html
+          url: https://telegramcard.sh5.live/tg_web/main.html#/home
           description: 
         
     - term: 手机Esim频道
