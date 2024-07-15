@@ -688,9 +688,13 @@
           logo: 
           url: https://github.com/shiteThings/cloudflare-navpage/blob/main/index.js
           description: 
-        - title: 手机投屏软件
+        - title: 手机投屏01
           logo: 
           url: https://github.com/barry-ran/QtScrcpy
+          description: 
+        - title: 手机投屏02
+          logo: 
+          url: https://github.com/Genymobile/scrcpy
           description: 
         - title: 微信公众号下载视频
           logo:  
@@ -983,6 +987,10 @@
           logo: 
           url: https://www.youtube.com/watch?v=-uPDW2Dg7W0
           description: 
+        - title: 手机投屏02教程
+          logo: 
+          url: https://www.youtube.com/watch?v=4VQ2KFgrmJw
+          description: 开源地址https://github.com/Genymobile/scrcpy
 
     - term: 导航网站
       links:
