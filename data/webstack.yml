@@ -991,6 +991,10 @@
           logo: 
           url: https://www.youtube.com/watch?v=4VQ2KFgrmJw
           description: 开源地址https://github.com/Genymobile/scrcpy
+        - title: 通过CF免费部署VLESS节点
+          logo: 
+          url: https://www.youtube.com/watch?v=PXZbvd5nZaA
+          description: 
 
     - term: 导航网站
       links:
