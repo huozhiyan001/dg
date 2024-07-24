@@ -858,6 +858,14 @@
           logo: 
           url: https://bbb.ssy614.com/#/dashboard
           description: 
+        - title: 免费节点01
+          logo: 
+          url: https://itsyebekhe.github.io/HiN-VPN/
+          description: 下面代固定国家
+        - title: 免费节点02
+          logo: 
+          url: https://xconfig.pages.dev/index2
+          description: 有上千个节点
     
     - term: 学习材料
       links:
@@ -1002,6 +1010,10 @@
         - title: 通过CF免费部署VLESS节点
           logo: 
           url: https://www.youtube.com/watch?v=PXZbvd5nZaA
+          description: 
+        - title: 免费节点
+          logo: 
+          url: https://www.youtube.com/watch?v=hqzO9DamcvQ
           description: 
 
     - term: 导航网站
