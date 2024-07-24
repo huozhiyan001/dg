@@ -760,6 +760,14 @@
           logo:  
           url: https://github.com/TGX-Android/Telegram-X
           description: 
+        - title: 伊朗人的订阅节修改版源代码
+          logo: 
+          url: https://www.wanuse.com/2024/07/v2ray-clash-cloudflare-workers.html
+          description: 
+        - title: 伊朗人的订阅节源代码
+          logo: 
+          url: https://github.com/vfarid/v2ray-worker
+          description: 
             
     - term: 魔法工具
       links:
@@ -1018,6 +1026,14 @@
         - title: 免费节点
           logo: 
           url: https://www.youtube.com/watch?v=hqzO9DamcvQ
+          description: 
+        - title: 伊朗人的订阅节点教程01
+          logo: 
+          url: https://www.youtube.com/watch?v=cNauurQhHJQ
+          description: 
+        - title: 伊朗人的订阅节点教程02
+          logo: 
+          url: https://www.youtube.com/watch?v=a1Uxih8jPyw
           description: 
 
     - term: 导航网站
