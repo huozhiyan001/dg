@@ -230,6 +230,10 @@
           logo: 
           url: https://fast.com/
           description: 
+        - title: 测速3
+          logo: 
+          url: http://speed5.ntu.edu.tw/speed5/
+          description: 
         - title: 测IP地址是在什么地区
           logo: 
           url: https://reallyfreegeoip.org/bulk#google_vignette
