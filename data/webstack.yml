@@ -839,6 +839,10 @@
           logo: 
           url: https://github.com/chen08209/FlClash
           description:
+        - title: 赛风VPN代理软件PsiCash
+          logo: 
+          url: https://psiphon.ca/
+          description:
 
     - term: 机场节点
       links:
