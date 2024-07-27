@@ -330,7 +330,7 @@
           logo:  
           url: https://monitor.gacjie.cn/page/cloudflare/ipv4.html
           description:
-        - title: Cloudflare IP 批量测试工具
+        - title: Cloudflare-IP-批量测试工具
           logo:  
           url: http://ip.flares.cloud/
           description:
