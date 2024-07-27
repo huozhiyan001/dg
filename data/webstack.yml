@@ -740,6 +740,10 @@
           logo:  
           url: https://github.com/putyy/res-downloader
           description: 
+        - title: zizifn原始代码大佬
+          logo:  
+          url: https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js
+          description: 
         - title: CN大佬
           logo:  
           url: https://github.com/cmliu
