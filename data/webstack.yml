@@ -322,6 +322,10 @@
           logo:  
           url: https://www.cloudflare-cn.com/ips/
           description:
+        - title: 优选过的反代IP
+          logo:  
+          url: https://github.com/ymyuuu/IPDB
+          description:
 
     - term: 金融中心
       links:
