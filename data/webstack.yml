@@ -187,6 +187,10 @@
           logo: 
           url: https://www.gname.com/
           description: 
+        - title: 添加解析二级域名IP
+          logo: 
+          url: https://ydns.io/hosts/
+          description: 
 
     - term: 网络IP查询
       links:
