@@ -447,6 +447,10 @@
           logo: 
           url: https://www.thinkhubx.com/network-cfip/
           description: 
+        - title: 用FlClash代理软件教程
+          logo: 
+          url: https://kjgx668.blogspot.com/2024/07/2024vpnflclashwindowswindowslinuxmacos.html
+          description: 
           
           
 - taxonomy: 资源分享
@@ -871,6 +875,10 @@
           logo: 
           url: https://psiphon.ca/
           description:
+        - title: FlClash代理软件
+          logo: 
+          url: https://github.com/chen08209/FlClash
+          description:
 
     - term: 机场节点
       links:
@@ -1086,6 +1094,10 @@
         - title: 固定IP教程02
           logo: 
           url: https://www.youtube.com/watch?v=92QMGgUwed8
+          description: 
+        - title: 用FlClash代理软件
+          logo: 
+          url: https://www.youtube.com/watch?v=puRuk7CQqYo
           description: 
 
     - term: 导航网站
