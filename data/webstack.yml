@@ -354,6 +354,10 @@
           logo:  
           url: https://zip.baipiao.eu.org
           description:
+        - title: 批量添加IP地址到自己节点
+          logo:  
+          url: https://bulianglin.com/archives/cdn.html
+          description:
 
 
     - term: 金融中心
@@ -1136,6 +1140,11 @@
           logo: 
           url: https://www.youtube.com/watch?v=K9GKqvViqW0
           description: 
+        - title: 各国CDN-IP自由
+          logo: 
+          url: https://www.youtube.com/watch?v=Q6pgtF6DVcI
+          description: 
+        
 
     - term: 导航网站
       links:
