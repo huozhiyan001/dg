@@ -746,6 +746,10 @@
           logo: 
           url: https://chromewebstore.google.com/detail/magic-copy/nnifclicibdhgakebbnbfmomniihfmkg
           description: 
+        - title: workingvpn浏览器VPN
+          logo: 
+          url: https://workingvpn.com/
+          description: 
 
     - term: 源代码
       links:
@@ -1143,6 +1147,10 @@
         - title: 各国CDN-IP自由
           logo: 
           url: https://www.youtube.com/watch?v=Q6pgtF6DVcI
+          description: 
+        - title: workingvpn浏览器VPN教程
+          logo: 
+          url: https://www.youtube.com/watch?v=3XqNkj6Sr08
           description: 
         
 
