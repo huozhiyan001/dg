@@ -198,6 +198,10 @@
 
     - term: 网络IP查询
       links:
+        - title: 获取反代IP官网
+          logo:  
+          url: https://www.onecn.eu.org/article/besturl
+          description:
         - title: 查询自己IP
           logo: 
           url: https://whoer.net/zh
@@ -341,10 +345,6 @@
         - title: Cloudflare-IP-批量测试工具
           logo:  
           url: http://ip.flares.cloud/
-          description:
-        - title: 获取反代IP官网
-          logo:  
-          url: https://www.onecn.eu.org/article/besturl
           description:
         - title: 白嫖哥优选IP购买
           logo:  
@@ -781,7 +781,7 @@
           logo:  
           url: https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js
           description: 
-        - title: CN大佬
+        - title: CM大佬
           logo:  
           url: https://github.com/cmliu
           description: 
