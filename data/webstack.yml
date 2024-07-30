@@ -127,6 +127,10 @@
   list: 
     - term: 域名+VPS资源分享
       links:
+        - title: 添加解析二级域名IP
+          logo: 
+          url: https://ydns.io/hosts/
+          description: 
         - title: 每年0.67美元顶级域名后缀名xyz
           logo: 
           url: https://www.spaceship.com/
@@ -191,10 +195,7 @@
           logo: 
           url: https://www.gname.com/
           description: 
-        - title: 添加解析二级域名IP
-          logo: 
-          url: https://ydns.io/hosts/
-          description: 
+        
 
     - term: 网络IP查询
       links:
