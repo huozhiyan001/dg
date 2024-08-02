@@ -95,6 +95,14 @@
       logo:  
       url: https://www.google.com/search?q=%E5%9C%A8%E7%BA%BF%E8%AE%A1%E7%AE%97%E5%99%A8
       description: 
+    - title: 奈非官网
+      logo:  
+      url: https://www.netflix.com/
+      description: 
+    - title: 迪斯尼官网
+      logo:  
+      url: https://www.disney.com/
+      description: 
 
 
 - taxonomy: 邮箱
