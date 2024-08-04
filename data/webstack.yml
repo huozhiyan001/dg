@@ -692,6 +692,10 @@
           logo:  
           url: https://jpsmile.com/
           description: 
+        - title: 简化您的计算机使用
+          logo:  
+          url: https://www.sordum.org/
+          description: 
   
     - term: 浏览器插件
       links:
