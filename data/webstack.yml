@@ -103,6 +103,10 @@
       logo:  
       url: https://www.disney.com/
       description: 
+    - title: tiktok
+      logo:  
+      url: https://www.tiktok.com
+      description: 
 
 
 - taxonomy: 邮箱
