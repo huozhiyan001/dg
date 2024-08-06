@@ -139,11 +139,11 @@
   list: 
     - term: 域名+VPS资源分享
       links:
-        - title: 添加解析二级域名IP
+        - title: ydns二级域名IP
           logo: 
           url: https://ydns.io/hosts/
           description: 
-        - title: changeip二级域名
+        - title: changeip二级域名IP
           logo: 
           url: https://www.changeip.com/
           description: 无需开梯子
