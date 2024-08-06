@@ -143,6 +143,10 @@
           logo: 
           url: https://ydns.io/hosts/
           description: 
+        - title: changeip二级域名
+          logo: 
+          url: https://www.changeip.com/
+          description: 无需开梯子
         - title: 每年0.67美元顶级域名后缀名xyz
           logo: 
           url: https://www.spaceship.com/
@@ -211,12 +215,8 @@
           logo: 
           url: https://www.mydns.jp/#intro
           description: 没什么用
-        - title: changeip二级域名
-          logo: 
-          url: https://www.changeip.com/
-          description: 
         
-
+        
     - term: 网络IP查询
       links:
         - title: 获取反代IP官网
