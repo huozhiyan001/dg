@@ -367,11 +367,11 @@
           logo:  
           url: https://www.cloudflare-cn.com/ips/
           description:
-        - title: 优选过的反代IP
+        - title: 优选IP库05
           logo:  
-          url: https://github.com/ymyuuu/IPDB
+          url: https://stock.hostmonit.com/CloudFlareYes
           description:
-        - title: 三网通优选IP库
+        - title: 优选IP库06
           logo:  
           url: https://monitor.gacjie.cn/page/cloudflare/ipv4.html
           description:
