@@ -375,6 +375,10 @@
           logo:  
           url: https://monitor.gacjie.cn/page/cloudflare/ipv4.html
           description:
+        - title: 优选IP地址07
+          logo:  
+          url: https://vfarid.github.io/cf-ip-scanner/
+          description:
         - title: Cloudflare-IP-批量测试工具
           logo:  
           url: http://ip.flares.cloud/
