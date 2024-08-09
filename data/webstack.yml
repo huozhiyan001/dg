@@ -15,6 +15,10 @@
       logo: 
       url: https://dash.cloudflare.com/
       description: 
+    - title: github官网
+      logo:  
+      url: https://github.com/dashboard
+      description: 
     - title: 接码平台
       logo:  
       url: https://sms-activate.org/cn/getNumber
