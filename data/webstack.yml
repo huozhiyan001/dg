@@ -886,6 +886,10 @@
           logo: 
           url: https://github.com/vfarid/v2ray-worker
           description: 
+        - title: CM汇聚订阅器
+          logo: 
+          url: https://github.com/cmliu/CF-Workers-SUB
+          description: 
             
     - term: 魔法工具
       links:
@@ -1208,6 +1212,10 @@
         - title: changeip二级域名筛选IP
           logo: 
           url: https://www.youtube.com/watch?v=JpbJfpQzoYI
+          description: 
+        - title: 汇聚订阅器
+          logo: 
+          url: https://www.youtube.com/watch?v=KVJgCnFp1uU
           description: 
 
     - term: 4K视频测试
